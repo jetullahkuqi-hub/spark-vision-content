@@ -1,0 +1,77 @@
+{
+ "tag": "GROWTH",
+ "duration": 12.0,
+ "scenes": [
+  {
+   "start": 0.0,
+   "end": 3.0,
+   "lines": [
+    {
+     "t": "Likes",
+     "size": 200
+    },
+    {
+     "t": "don&#39;t pay",
+     "size": 170
+    },
+    {
+     "t": "[[bills.]]",
+     "size": 200
+    }
+   ]
+  },
+  {
+   "start": 3.0,
+   "end": 5.6,
+   "lines": [
+    {
+     "t": "[[Clients]]",
+     "size": 200
+    },
+    {
+     "t": "do.",
+     "size": 200
+    }
+   ]
+  },
+  {
+   "start": 5.6,
+   "end": 9.0,
+   "lines": [
+    {
+     "t": "Being seen",
+     "size": 150
+    },
+    {
+     "t": "isn&#39;t enough.",
+     "size": 150
+    },
+    {
+     "t": "You need to be",
+     "size": 110
+    },
+    {
+     "t": "[[chosen.]]",
+     "size": 190
+    }
+   ]
+  },
+  {
+   "start": 9.0,
+   "end": 12.0,
+   "center": true,
+   "lines": [
+    {
+     "logo": true
+    },
+    {
+     "t": "Content that turns followers into clients.",
+     "cls": "sub"
+    },
+    {
+     "pill": "FOLLOW FOR MORE"
+    }
+   ]
+  }
+ ]
+}

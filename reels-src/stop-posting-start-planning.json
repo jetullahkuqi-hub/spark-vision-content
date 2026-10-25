@@ -1,0 +1,85 @@
+{
+ "tag": "STRATEGY",
+ "duration": 12.0,
+ "scenes": [
+  {
+   "start": 0.0,
+   "end": 3.0,
+   "lines": [
+    {
+     "t": "MARKETING TIP",
+     "cls": "kick"
+    },
+    {
+     "t": "Stop",
+     "size": 190
+    },
+    {
+     "t": "posting.",
+     "size": 190
+    },
+    {
+     "t": "Start [[planning.]]",
+     "size": 130
+    }
+   ]
+  },
+  {
+   "start": 3.0,
+   "end": 6.0,
+   "lines": [
+    {
+     "t": "Random posts",
+     "size": 140
+    },
+    {
+     "t": "= random",
+     "size": 140
+    },
+    {
+     "t": "[[results.]]",
+     "size": 170
+    }
+   ]
+  },
+  {
+   "start": 6.0,
+   "end": 9.0,
+   "lines": [
+    {
+     "t": "A strategy",
+     "size": 140
+    },
+    {
+     "t": "turns every post",
+     "size": 120
+    },
+    {
+     "t": "into a [[step]]",
+     "size": 140
+    },
+    {
+     "t": "[[forward.]]",
+     "size": 140
+    }
+   ]
+  },
+  {
+   "start": 9.0,
+   "end": 12.0,
+   "center": true,
+   "lines": [
+    {
+     "logo": true
+    },
+    {
+     "t": "Strategy that delivers.",
+     "cls": "sub"
+    },
+    {
+     "pill": "SEND US A DM"
+    }
+   ]
+  }
+ ]
+}

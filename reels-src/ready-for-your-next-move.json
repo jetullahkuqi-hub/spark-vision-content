@@ -1,0 +1,77 @@
+{
+ "tag": "CONTACT",
+ "duration": 12.0,
+ "scenes": [
+  {
+   "start": 0.0,
+   "end": 3.0,
+   "lines": [
+    {
+     "t": "Your business",
+     "size": 150
+    },
+    {
+     "t": "has",
+     "size": 150
+    },
+    {
+     "t": "[[potential.]]",
+     "size": 170
+    }
+   ]
+  },
+  {
+   "start": 3.0,
+   "end": 6.0,
+   "lines": [
+    {
+     "t": "We have the",
+     "size": 150
+    },
+    {
+     "t": "[[strategy]]",
+     "size": 180
+    },
+    {
+     "t": "to grow it.",
+     "size": 150
+    }
+   ]
+  },
+  {
+   "start": 6.0,
+   "end": 9.0,
+   "lines": [
+    {
+     "t": "Ready for",
+     "size": 170
+    },
+    {
+     "t": "your [[next]]",
+     "size": 170
+    },
+    {
+     "t": "[[move?]]",
+     "size": 200
+    }
+   ]
+  },
+  {
+   "start": 9.0,
+   "end": 12.0,
+   "center": true,
+   "lines": [
+    {
+     "logo": true
+    },
+    {
+     "t": "Send us a DM or call",
+     "cls": "sub"
+    },
+    {
+     "pill": "+383 49 297 204"
+    }
+   ]
+  }
+ ]
+}

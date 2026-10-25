@@ -1,0 +1,85 @@
+{
+ "tag": "BRANDING",
+ "duration": 12.0,
+ "scenes": [
+  {
+   "start": 0.0,
+   "end": 3.0,
+   "lines": [
+    {
+     "t": "Your logo",
+     "size": 170
+    },
+    {
+     "t": "isn&#39;t your",
+     "size": 170
+    },
+    {
+     "t": "[[brand.]]",
+     "size": 200
+    }
+   ]
+  },
+  {
+   "start": 3.0,
+   "end": 6.2,
+   "lines": [
+    {
+     "t": "Your brand is",
+     "size": 140
+    },
+    {
+     "t": "how people",
+     "size": 140
+    },
+    {
+     "t": "[[feel]] about",
+     "size": 140
+    },
+    {
+     "t": "you.",
+     "size": 140
+    }
+   ]
+  },
+  {
+   "start": 6.2,
+   "end": 9.0,
+   "lines": [
+    {
+     "t": "Voice.",
+     "size": 170
+    },
+    {
+     "t": "Visuals.",
+     "size": 170
+    },
+    {
+     "t": "Content.",
+     "size": 170
+    },
+    {
+     "t": "[[Trust.]]",
+     "size": 170
+    }
+   ]
+  },
+  {
+   "start": 9.0,
+   "end": 12.0,
+   "center": true,
+   "lines": [
+    {
+     "logo": true
+    },
+    {
+     "t": "Let&#39;s build yours.",
+     "cls": "sub"
+    },
+    {
+     "pill": "SEND US A DM"
+    }
+   ]
+  }
+ ]
+}
