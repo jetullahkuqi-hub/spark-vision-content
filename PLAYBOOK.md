@@ -40,7 +40,7 @@ Read `BRAND.md` and `STRATEGY.md` before doing anything.
 7. **Write the plan file** `weeks/<monday-or-first-day>.json`: list of
    `{"date":"YYYY-MM-DDTHH:MM:SS","type":"POST"|"REEL","path":"posts/x.jpg","pillar":"…","hook":"…","text":"caption"}`.
    Captions in English: hook line, 2–5 short lines of value, one CTA (save / share / comment / DM), 5–8 hashtags incl. #sparkvision.
-8. **Publish the files.** `git add -A && git commit -m "Week of <date>: …" && git fetch origin main && git rebase origin/main && git push`.
+8. **Publish the files.** `git add -A && git commit -m "Week of <date>: …" && git pull --rebase origin main && git push origin main`.
    If the push fails, stop and report — do not schedule posts whose media is not online.
 9. **Schedule.** One `createScheduledPost` per item, `blogId` 7653072, `date` with `+01:00` (or `+02:00` in summer time):
    ```json
