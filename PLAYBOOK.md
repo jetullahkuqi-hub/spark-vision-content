@@ -88,6 +88,10 @@ Read `BRAND.md` and `STRATEGY.md` before doing anything.
   how cross-posts do against native content in STRATEGY.md.
 - Always upload our original file (no watermarks from the other app).
 
+## Lessons
+- Metricool's API can create a post even when the call looks rejected. After every batch, run getScheduledPosts and fix duplicates
+  (there is no delete tool: move a duplicate to an empty future slot with updateScheduledPost and new media).
+
 ## Don'ts
 - Don't delete or edit posts that are already published. Don't touch other Metricool brands.
 - No prices, invented stats, fake testimonials or client names; no copyrighted music or characters.
