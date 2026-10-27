@@ -1,0 +1,14 @@
+{
+ "type": "meme",
+ "music_seed": 37,
+ "caption": "Me doing \"[[research]]\" for 3 hours straight",
+ "clip": "stock/mixkit-4908.mp4",
+ "start": 1.0,
+ "length": 7.0,
+ "cx": 0.55,
+ "cy": 0.5,
+ "end": {
+  "line": "It IS research. [[Trust us.]]",
+  "cta": "FOLLOW FOR MORE"
+ }
+}

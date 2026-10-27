@@ -1,0 +1,45 @@
+{
+ "type": "chat",
+ "duration": 12.5,
+ "music_seed": 45,
+ "caption": "When a friend asks for [[\"help\"]]:",
+ "contact": "Friend",
+ "messages": [
+  {
+   "from": "them",
+   "t": "Can you help me with my Instagram?",
+   "at": 0.2,
+   "typing": false
+  },
+  {
+   "from": "us",
+   "t": "Sure! Strategy, content plan, posting schedule...",
+   "at": 2.0
+  },
+  {
+   "from": "them",
+   "t": "No I mean",
+   "at": 4.2
+  },
+  {
+   "from": "them",
+   "t": "Which filter should I use",
+   "at": 5.6
+  },
+  {
+   "from": "us",
+   "t": "...",
+   "at": 7.2
+  },
+  {
+   "from": "us",
+   "t": "Valencia.",
+   "at": 8.4
+  }
+ ],
+ "end": {
+  "at": 9.8,
+  "line": "We do strategy. [[And filters.]]",
+  "cta": "FOLLOW FOR MORE"
+ }
+}

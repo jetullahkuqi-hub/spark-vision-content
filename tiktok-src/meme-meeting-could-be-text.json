@@ -1,0 +1,14 @@
+{
+ "type": "meme",
+ "music_seed": 35,
+ "caption": "POV: a 2-hour meeting that could've been a [[2-line text]]",
+ "clip": "stock/mixkit-42666.mp4",
+ "start": 1.0,
+ "length": 7.0,
+ "cx": 0.45,
+ "cy": 0.5,
+ "end": {
+  "line": "We value your [[time.]]",
+  "cta": "FOLLOW FOR MORE"
+ }
+}

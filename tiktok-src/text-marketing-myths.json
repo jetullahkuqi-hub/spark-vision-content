@@ -1,0 +1,75 @@
+{
+ "type": "text",
+ "tag": "MYTH BUSTING",
+ "duration": 12.0,
+ "music_seed": 52,
+ "scenes": [
+  {
+   "start": 0.0,
+   "end": 2.6,
+   "lines": [
+    {
+     "t": "MARKETING MYTHS",
+     "cls": "kick"
+    },
+    {
+     "t": "\"Just post",
+     "size": 150
+    },
+    {
+     "t": "more\" = [[myth.]]",
+     "size": 150
+    }
+   ]
+  },
+  {
+   "start": 2.6,
+   "end": 5.2,
+   "lines": [
+    {
+     "t": "\"Hashtags fix",
+     "size": 140
+    },
+    {
+     "t": "everything\"",
+     "size": 140
+    },
+    {
+     "t": "= [[myth.]]",
+     "size": 150
+    }
+   ]
+  },
+  {
+   "start": 5.2,
+   "end": 7.8,
+   "lines": [
+    {
+     "t": "\"Viral = sales\"",
+     "size": 130
+    },
+    {
+     "t": "= [[myth.]]",
+     "size": 150
+    }
+   ]
+  },
+  {
+   "start": 7.8,
+   "end": 12.0,
+   "center": true,
+   "lines": [
+    {
+     "logo": true
+    },
+    {
+     "t": "Strategy is the real cheat code.",
+     "cls": "sub"
+    },
+    {
+     "pill": "FOLLOW FOR TIPS"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,83 @@
+{
+ "type": "text",
+ "tag": "BEHIND THE SCENES",
+ "duration": 12.0,
+ "music_seed": 54,
+ "scenes": [
+  {
+   "start": 0.0,
+   "end": 2.6,
+   "lines": [
+    {
+     "t": "HOW LONG IT TAKES",
+     "cls": "kick"
+    },
+    {
+     "t": "Making",
+     "size": 150
+    },
+    {
+     "t": "the post:",
+     "size": 150
+    },
+    {
+     "t": "[[20 min]]",
+     "size": 150
+    }
+   ]
+  },
+  {
+   "start": 2.6,
+   "end": 5.2,
+   "lines": [
+    {
+     "t": "Choosing",
+     "size": 150
+    },
+    {
+     "t": "the font:",
+     "size": 150
+    },
+    {
+     "t": "[[2 hours]]",
+     "size": 150
+    }
+   ]
+  },
+  {
+   "start": 5.2,
+   "end": 7.8,
+   "lines": [
+    {
+     "t": "Writing",
+     "size": 150
+    },
+    {
+     "t": "the caption:",
+     "size": 150
+    },
+    {
+     "t": "[[3 days]]",
+     "size": 150
+    }
+   ]
+  },
+  {
+   "start": 7.8,
+   "end": 12.0,
+   "center": true,
+   "lines": [
+    {
+     "logo": true
+    },
+    {
+     "t": "Content is a full-time job. Let us do it.",
+     "cls": "sub"
+    },
+    {
+     "pill": "SEND US A DM"
+    }
+   ]
+  }
+ ]
+}

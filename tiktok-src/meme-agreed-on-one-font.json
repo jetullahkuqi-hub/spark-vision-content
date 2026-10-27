@@ -1,0 +1,14 @@
+{
+ "type": "meme",
+ "music_seed": 34,
+ "caption": "Us and the client after finally agreeing on [[ONE font]]",
+ "clip": "stock/mixkit-30010.mp4",
+ "start": 1.0,
+ "length": 7.0,
+ "cx": 0.5,
+ "cy": 0.5,
+ "end": {
+  "line": "Teamwork makes the [[dream work.]]",
+  "cta": "FOLLOW FOR MORE"
+ }
+}

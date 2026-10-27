@@ -58,8 +58,8 @@ Read `BRAND.md` and `STRATEGY.md` before doing anything.
 
 ## TikTok (only when connected)
 - Check `getBrandSettings`: if `networksData` has a TikTok account, TikTok is live; otherwise skip this section and remind the owner to connect TikTok in Metricool.
-- Cadence (owner's rule, 27 Oct): **5 funny videos per day = 35 per week**, default 08:00 / 12:00 / 16:00 / 19:00 / 21:00
-  (shift slots toward the best TikTok hours from `getBestTimeToPostByNetwork` with `socialNetwork` `tiktok`, keep 5 per day, at least 2.5 h apart).
+- Cadence (owner's rule, 28 Oct): **10 videos per day = 70 per week**, default 07:00 / 08:30 / 10:00 / 11:30 / 13:00 / 14:30 / 16:00 / 17:30 / 19:00 / 21:00
+  (shift slots toward the best TikTok hours from `getBestTimeToPostByNetwork` with `socialNetwork` `tiktok`, keep 10 per day, ~1.5 h apart).
   Skip slots that are already in the past when scheduling. Mix formats every day (e.g. 2 memes, 2 chat skits, 1 kinetic text) and shift the mix toward what performs.
 - TikTok gets its **own funny videos** (see BRAND.md › TikTok), never the Instagram Reels. Scripts in `tiktok-src/<slug>.json`
   (format at the top of `tools/make_tiktoks.py`), render with `python3 tools/make_tiktoks.py [slug] [--preview]` → `tiktok/<slug>.mp4`.
@@ -72,6 +72,7 @@ Read `BRAND.md` and `STRATEGY.md` before doing anything.
   write a TikTok subsection in STRATEGY.md: which jokes/formats worked, what to try next.
 - Plan file: `weeks/tiktok-<first-day>.json`. Schedule with `createScheduledPost`:
   `"providers": [{"network": "tiktok"}]`, media = the `.mp4`, `"videoCoverMilliseconds": 600`,
+  a `"title"` is REQUIRED (short hook, < 60 chars) inside tiktokData,
   `"tiktokData": {"disableComment": false, "disableDuet": false, "disableStitch": false, "privacyOption": "PUBLIC_TO_EVERYONE",
   "commercialContentThirdParty": false, "commercialContentOwnBrand": true, "title": "", "autoAddMusic": false, "photoCoverIndex": 0, "isAigc": false}`.
   If Metricool rejects a field (e.g. cover on a personal TikTok account), drop that field and retry once.

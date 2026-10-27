@@ -1,0 +1,15 @@
+{
+ "type": "meme",
+ "music_seed": 32,
+ "caption": "Me reading \"can you do it for free? it's [[great exposure]]\"",
+ "clip": "stock/mixkit-8741.mp4",
+ "start": 1.0,
+ "length": 7.0,
+ "cx": 0.3,
+ "cy": 0.5,
+ "end": {
+  "line": "Exposure doesn't pay [[rent.]]",
+  "cta": "FOLLOW FOR MORE"
+ },
+ "cap_size": 76
+}

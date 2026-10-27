@@ -1,0 +1,14 @@
+{
+ "type": "meme",
+ "music_seed": 38,
+ "caption": "When the client sends feedback as a [[7-minute voice note]]",
+ "clip": "stock/mixkit-43832.mp4",
+ "start": 0.0,
+ "length": 3.2,
+ "cx": 0.45,
+ "cy": 0.5,
+ "end": {
+  "line": "We listened. [[Twice.]]",
+  "cta": "FOLLOW FOR MORE"
+ }
+}

@@ -1,0 +1,79 @@
+{
+ "type": "text",
+ "tag": "TYPES OF CLIENTS",
+ "duration": 12.0,
+ "music_seed": 51,
+ "scenes": [
+  {
+   "start": 0.0,
+   "end": 2.6,
+   "lines": [
+    {
+     "t": "TYPES OF CLIENTS",
+     "cls": "kick"
+    },
+    {
+     "t": "01. The",
+     "size": 150
+    },
+    {
+     "t": "\"[[ASAP]]\" one",
+     "size": 150
+    }
+   ]
+  },
+  {
+   "start": 2.6,
+   "end": 5.2,
+   "lines": [
+    {
+     "t": "02. The",
+     "size": 150
+    },
+    {
+     "t": "\"[[I&#39;ll know it]]",
+     "size": 120
+    },
+    {
+     "t": "[[when I see it]]\"",
+     "size": 120
+    }
+   ]
+  },
+  {
+   "start": 5.2,
+   "end": 7.8,
+   "lines": [
+    {
+     "t": "03. The",
+     "size": 150
+    },
+    {
+     "t": "\"[[my nephew]]\"",
+     "size": 150
+    },
+    {
+     "t": "one",
+     "size": 150
+    }
+   ]
+  },
+  {
+   "start": 7.8,
+   "end": 12.0,
+   "center": true,
+   "lines": [
+    {
+     "logo": true
+    },
+    {
+     "t": "Which one is yours? Tell us below.",
+     "cls": "sub"
+    },
+    {
+     "pill": "COMMENT BELOW"
+    }
+   ]
+  }
+ ]
+}

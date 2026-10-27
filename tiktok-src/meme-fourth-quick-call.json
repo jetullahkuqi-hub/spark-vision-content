@@ -1,0 +1,14 @@
+{
+ "type": "meme",
+ "music_seed": 33,
+ "caption": "The team after the [[4th \"quick call\"]] of the day",
+ "clip": "stock/mixkit-4607.mp4",
+ "start": 4.0,
+ "length": 7.0,
+ "cx": 0.62,
+ "cy": 0.5,
+ "end": {
+  "line": "Could've been an [[email.]]",
+  "cta": "FOLLOW FOR MORE"
+ }
+}

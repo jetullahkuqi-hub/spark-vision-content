@@ -1,0 +1,15 @@
+{
+ "type": "meme",
+ "music_seed": 36,
+ "caption": "Me nodding on the client call while they explain \"[[make it pop]]\" again",
+ "clip": "stock/mixkit-10450.mp4",
+ "start": 0.5,
+ "length": 7.0,
+ "cx": 0.38,
+ "cy": 0.5,
+ "end": {
+  "line": "We speak fluent [[client.]]",
+  "cta": "FOLLOW FOR MORE"
+ },
+ "cap_size": 72
+}

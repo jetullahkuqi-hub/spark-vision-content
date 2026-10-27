@@ -1,0 +1,45 @@
+{
+ "type": "chat",
+ "duration": 12.5,
+ "music_seed": 46,
+ "caption": "When the client has a [[font in mind]]:",
+ "contact": "Client",
+ "messages": [
+  {
+   "from": "them",
+   "t": "I already picked a font",
+   "at": 0.2,
+   "typing": false
+  },
+  {
+   "from": "us",
+   "t": "Love that. Which one?",
+   "at": 1.8
+  },
+  {
+   "from": "them",
+   "t": "You're going to love it",
+   "at": 3.3
+  },
+  {
+   "from": "them",
+   "t": "Comic Sans",
+   "at": 5.0
+  },
+  {
+   "from": "us",
+   "t": "...",
+   "at": 6.6
+  },
+  {
+   "from": "us",
+   "t": "Let's talk about brand guidelines",
+   "at": 7.9
+  }
+ ],
+ "end": {
+  "at": 9.8,
+  "line": "Brand guidelines exist for a [[reason.]]",
+  "cta": "FOLLOW FOR MORE"
+ }
+}

@@ -1,0 +1,14 @@
+{
+ "type": "meme",
+ "music_seed": 31,
+ "caption": "When the client asks if it can go viral [[by Friday]]",
+ "clip": "stock/mixkit-4760.mp4",
+ "start": 0.5,
+ "length": 6.0,
+ "cx": 0.6,
+ "cy": 0.5,
+ "end": {
+  "line": "Viral isn't a [[deadline.]]",
+  "cta": "FOLLOW FOR MORE"
+ }
+}

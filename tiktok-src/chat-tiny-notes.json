@@ -1,0 +1,50 @@
+{
+ "type": "chat",
+ "duration": 13.0,
+ "music_seed": 42,
+ "caption": "\"Just a few [[tiny notes]]\":",
+ "contact": "Client",
+ "messages": [
+  {
+   "from": "them",
+   "t": "Love it!!",
+   "at": 0.2,
+   "typing": false
+  },
+  {
+   "from": "them",
+   "t": "Just a few tiny notes",
+   "at": 1.7
+  },
+  {
+   "from": "them",
+   "t": "1. Change the colors",
+   "at": 3.6
+  },
+  {
+   "from": "them",
+   "t": "2. Change the font",
+   "at": 5.0
+  },
+  {
+   "from": "them",
+   "t": "3. Change the idea",
+   "at": 6.4
+  },
+  {
+   "from": "us",
+   "t": "So... a new design?",
+   "at": 8.0
+  },
+  {
+   "from": "them",
+   "t": "No no, same design",
+   "at": 9.4
+  }
+ ],
+ "end": {
+  "at": 10.8,
+  "line": "Same design. [[Totally.]]",
+  "cta": "FOLLOW FOR MORE"
+ }
+}

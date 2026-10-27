@@ -1,0 +1,45 @@
+{
+ "type": "chat",
+ "duration": 12.5,
+ "music_seed": 43,
+ "caption": "My phone every [[Sunday]]:",
+ "contact": "Screen Time",
+ "messages": [
+  {
+   "from": "them",
+   "t": "Your screen time was up 40% last week",
+   "at": 0.2,
+   "typing": false
+  },
+  {
+   "from": "us",
+   "t": "It was research",
+   "at": 1.9
+  },
+  {
+   "from": "them",
+   "t": "9 hours on TikTok",
+   "at": 3.5
+  },
+  {
+   "from": "us",
+   "t": "Market research",
+   "at": 5.0
+  },
+  {
+   "from": "them",
+   "t": "Daily.",
+   "at": 6.5
+  },
+  {
+   "from": "us",
+   "t": "Very thorough research",
+   "at": 8.0
+  }
+ ],
+ "end": {
+  "at": 9.8,
+  "line": "Social media manager [[problems.]]",
+  "cta": "FOLLOW FOR MORE"
+ }
+}

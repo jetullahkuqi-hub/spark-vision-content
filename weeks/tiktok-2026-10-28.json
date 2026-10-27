@@ -1,66 +1,80 @@
 [
  {
-  "date": "2026-10-28T08:00:00",
+  "date": "2026-10-28T00:40:00",
   "network": "tiktok",
   "type": "VIDEO",
-  "path": "tiktok/meme-needs-more-pop.mp4",
+  "path": "tiktok/meme-final-final-v7.mp4",
   "format": "meme",
-  "hook": "When the client says the design needs more [[pop]]",
-  "text": "define \"pop\" 🙃 asking for a friend\n\n#designerlife #clientsbelike #graphicdesign #agencylife #relatable #sparkvision #fyp"
+  "hook": "Sending [[final_FINAL_v7.pdf]] and closing the laptop like nothing happened",
+  "text": "final_FINAL_v7_REALLYFINAL.pdf 🫡\n\n#designerlife #agencylife #worklife #relatable #graphicdesign #sparkvision #fyp",
+  "title": "final_FINAL_v7.pdf 🫡",
+  "status": "scheduled"
  },
  {
-  "date": "2026-10-28T12:00:00",
+  "date": "2026-10-28T07:00:00",
   "network": "tiktok",
   "type": "VIDEO",
   "path": "tiktok/make-the-logo-bigger.mp4",
   "format": "chat",
   "hook": "Every designer at [[11:47 PM]]:",
-  "text": "every designer has received this text at least once 😭\n\n#designerlife #clientsbelike #graphicdesign #marketingagency #agencylife #sparkvision #fyp"
+  "text": "every designer has received this text at least once 😭\n\n#designerlife #clientsbelike #graphicdesign #marketingagency #agencylife #sparkvision #fyp",
+  "title": "make the logo bigger. no, smaller 😭",
+  "status": "scheduled"
  },
  {
-  "date": "2026-10-28T16:00:00",
+  "date": "2026-10-28T08:30:00",
   "network": "tiktok",
   "type": "VIDEO",
   "path": "tiktok/meme-analytics-once-in-3-months.mp4",
   "format": "meme",
   "hook": "Me checking the analytics after posting [[once in 3 months]]",
-  "text": "the algorithm has trust issues and honestly fair 💀\n\n#socialmediatips #instagramgrowth #smallbusiness #contentcreator #relatable #sparkvision #fyp"
+  "text": "the algorithm has trust issues and honestly fair 💀\n\n#socialmediatips #instagramgrowth #smallbusiness #contentcreator #relatable #sparkvision #fyp",
+  "title": "posting once in 3 months be like 💀",
+  "status": "scheduled"
  },
  {
-  "date": "2026-10-28T19:00:00",
-  "network": "tiktok",
-  "type": "VIDEO",
-  "path": "tiktok/me-vs-the-algorithm.mp4",
-  "format": "chat",
-  "hook": "Me after posting [[once a month]]:",
-  "text": "the algorithm remembers who shows up 👀\n\n#instagramtips #algorithm #socialmediatips #contentcreator #smallbusiness #sparkvision #fyp"
- },
- {
-  "date": "2026-10-28T21:00:00",
-  "network": "tiktok",
-  "type": "VIDEO",
-  "path": "tiktok/meme-first-draft-approved.mp4",
-  "format": "meme",
-  "hook": "When the client approves the [[first draft]] with zero changes",
-  "text": "this has happened to us exactly once and we still talk about it ✨\n\n#designerlife #clientsbelike #agencylife #marketingagency #relatable #sparkvision #fyp"
- },
- {
-  "date": "2026-10-29T08:00:00",
+  "date": "2026-10-28T10:00:00",
   "network": "tiktok",
   "type": "VIDEO",
   "path": "tiktok/client-dictionary.mp4",
   "format": "text",
   "hook": "client-dictionary",
-  "text": "the client-to-English dictionary nobody asked for 📖 which one hurts the most?\n\n#clientsbelike #designerlife #marketingagency #agencylife #freelancer #sparkvision #fyp"
+  "text": "the client-to-English dictionary nobody asked for 📖 which one hurts the most?\n\n#clientsbelike #designerlife #marketingagency #agencylife #freelancer #sparkvision #fyp",
+  "title": "the client dictionary 📖",
+  "status": "scheduled"
  },
  {
-  "date": "2026-10-29T12:00:00",
+  "date": "2026-10-28T11:30:00",
   "network": "tiktok",
   "type": "VIDEO",
-  "path": "tiktok/meme-just-post-something.mp4",
+  "path": "tiktok/meme-first-draft-approved.mp4",
   "format": "meme",
-  "hook": "Client: \"just post something\"<br>Us, planning the next [[30 posts]]:",
-  "text": "\"just post something\" is not a strategy ♟️\n\n#marketingstrategy #socialmediamarketing #contentstrategy #agencylife #sparkvision #fyp"
+  "hook": "When the client approves the [[first draft]] with zero changes",
+  "text": "this has happened to us exactly once and we still talk about it ✨\n\n#designerlife #clientsbelike #agencylife #marketingagency #relatable #sparkvision #fyp",
+  "title": "first draft approved?! ✨",
+  "status": "scheduled"
+ },
+ {
+  "date": "2026-10-28T13:00:00",
+  "network": "tiktok",
+  "type": "VIDEO",
+  "path": "tiktok/me-vs-the-algorithm.mp4",
+  "format": "chat",
+  "hook": "Me after posting [[once a month]]:",
+  "text": "the algorithm remembers who shows up 👀\n\n#instagramtips #algorithm #socialmediatips #contentcreator #smallbusiness #sparkvision #fyp",
+  "title": "me vs the algorithm 👀",
+  "status": "scheduled"
+ },
+ {
+  "date": "2026-10-28T14:30:00",
+  "network": "tiktok",
+  "type": "VIDEO",
+  "path": "tiktok/meme-nephew-can-do-it-cheaper.mp4",
+  "format": "meme",
+  "hook": "When the client says their nephew can do it [[cheaper]]",
+  "text": "the nephew is undefeated 😂 tag someone who's met the nephew\n\n#clientsbelike #freelancer #designerlife #agencylife #relatable #sparkvision #fyp",
+  "title": "the nephew can do it cheaper 😂",
+  "status": "scheduled"
  },
  {
   "network": "tiktok",
@@ -69,52 +83,64 @@
   "format": "crosspost-ig-reel",
   "hook": "Your logo isn't your brand.",
   "text": "your logo isn't your brand. this is 👇 what would people say about yours?\n\n#branding #brandidentity #marketingtips #smallbusiness #marketingagency #sparkvision #fyp",
-  "date": "2026-10-29T16:00:00"
+  "date": "2026-10-28T16:00:00",
+  "title": "your logo isn't your brand",
+  "status": "scheduled"
  },
  {
-  "date": "2026-10-29T19:00:00",
+  "date": "2026-10-28T17:30:00",
   "network": "tiktok",
   "type": "VIDEO",
   "path": "tiktok/explaining-my-job-to-mom.mp4",
   "format": "chat",
   "hook": "Explaining my job to [[my mom]]:",
-  "text": "it IS a real job mom 😭 tag a social media manager\n\n#socialmediamanager #agencylife #relatable #marketingagency #worklife #sparkvision #fyp"
+  "text": "it IS a real job mom 😭 tag a social media manager\n\n#socialmediamanager #agencylife #relatable #marketingagency #worklife #sparkvision #fyp",
+  "title": "explaining my job to mom 😭",
+  "status": "scheduled"
  },
  {
-  "date": "2026-10-29T21:00:00",
-  "network": "tiktok",
-  "type": "VIDEO",
-  "path": "tiktok/meme-nephew-can-do-it-cheaper.mp4",
-  "format": "meme",
-  "hook": "When the client says their nephew can do it [[cheaper]]",
-  "text": "the nephew is undefeated 😂 tag someone who's met the nephew\n\n#clientsbelike #freelancer #designerlife #agencylife #relatable #sparkvision #fyp"
- },
- {
-  "date": "2026-10-30T08:00:00",
-  "network": "tiktok",
-  "type": "VIDEO",
-  "path": "tiktok/make-it-go-viral.mp4",
-  "format": "chat",
-  "hook": "POV: the client wants it to [[go viral]]",
-  "text": "\"just make it go viral\" 💀 the plan is the strategy, bestie\n\n#marketingtips #socialmediamarketing #clientsbelike #agencylife #contentcreator #sparkvision #fyp"
- },
- {
-  "date": "2026-10-30T12:00:00",
+  "date": "2026-10-28T19:00:00",
   "network": "tiktok",
   "type": "VIDEO",
   "path": "tiktok/meme-small-change-1158pm.mp4",
   "format": "meme",
   "hook": "Client at [[11:58 PM]]: \"one small change before tomorrow?\"",
-  "text": "it's never small and it's never before tomorrow 😭\n\n#agencylife #clientsbelike #worklife #designerlife #relatable #sparkvision #fyp"
+  "text": "it's never small and it's never before tomorrow 😭\n\n#agencylife #clientsbelike #worklife #designerlife #relatable #sparkvision #fyp",
+  "title": "one small change at 11:58 pm 😭",
+  "status": "scheduled"
  },
  {
-  "date": "2026-10-30T16:00:00",
+  "date": "2026-10-28T21:00:00",
+  "network": "tiktok",
+  "type": "VIDEO",
+  "path": "tiktok/make-it-go-viral.mp4",
+  "format": "chat",
+  "hook": "POV: the client wants it to [[go viral]]",
+  "text": "\"just make it go viral\" 💀 the plan is the strategy, bestie\n\n#marketingtips #socialmediamarketing #clientsbelike #agencylife #contentcreator #sparkvision #fyp",
+  "title": "\"just make it go viral\" 💀",
+  "status": "scheduled"
+ },
+ {
+  "date": "2026-10-29T07:00:00",
+  "network": "tiktok",
+  "type": "VIDEO",
+  "path": "tiktok/meme-draft-14.mp4",
+  "format": "meme",
+  "hook": "Draft #14 after the client [[\"had a new idea\"]]",
+  "text": "the new idea arrived at draft 14. of course it did 🫠\n\n#clientsbelike #designerlife #agencylife #freelancer #relatable #sparkvision #fyp",
+  "title": "draft #14 🫠",
+  "status": "scheduled"
+ },
+ {
+  "date": "2026-10-29T08:30:00",
   "network": "tiktok",
   "type": "VIDEO",
   "path": "tiktok/i-will-post-every-day.mp4",
   "format": "text",
   "hook": "i-will-post-every-day",
-  "text": "day 1 energy vs day 47 reality 💀 we've all been there\n\n#contentcreator #smallbusiness #socialmediatips #relatable #consistency #sparkvision #fyp"
+  "text": "day 1 energy vs day 47 reality 💀 we've all been there\n\n#contentcreator #smallbusiness #socialmediatips #relatable #consistency #sparkvision #fyp",
+  "title": "day 1 vs day 47 💀",
+  "status": "scheduled"
  },
  {
   "network": "tiktok",
@@ -123,33 +149,220 @@
   "format": "crosspost-ig-reel",
   "hook": "Ready for your next move?",
   "text": "your business has potential. we have the plan ♟️ dm us\n\n#marketingagency #businessgrowth #smallbusiness #marketingtips #strategy #sparkvision #fyp",
-  "date": "2026-10-30T19:00:00"
+  "date": "2026-10-29T10:00:00",
+  "title": "ready for your next move? ♟️",
+  "status": "scheduled"
  },
  {
-  "date": "2026-10-30T21:00:00",
-  "network": "tiktok",
-  "type": "VIDEO",
-  "path": "tiktok/meme-draft-14.mp4",
-  "format": "meme",
-  "hook": "Draft #14 after the client [[\"had a new idea\"]]",
-  "text": "the new idea arrived at draft 14. of course it did 🫠\n\n#clientsbelike #designerlife #agencylife #freelancer #relatable #sparkvision #fyp"
- },
- {
-  "date": "2026-10-31T08:00:00",
+  "date": "2026-10-29T11:30:00",
   "network": "tiktok",
   "type": "VIDEO",
   "path": "tiktok/it-sells-itself.mp4",
   "format": "text",
   "hook": "it-sells-itself",
-  "text": "\"our product sells itself\" ...until it doesn't 🫠\n\n#smallbusiness #marketing #businesstips #entrepreneur #marketingagency #sparkvision #fyp"
+  "text": "\"our product sells itself\" ...until it doesn't 🫠\n\n#smallbusiness #marketing #businesstips #entrepreneur #marketingagency #sparkvision #fyp",
+  "title": "\"our product sells itself\" 🫠",
+  "status": "scheduled"
  },
  {
-  "date": "2026-10-31T12:00:00",
+  "date": "2026-10-29T13:00:00",
   "network": "tiktok",
   "type": "VIDEO",
-  "path": "tiktok/meme-final-final-v7.mp4",
+  "path": "tiktok/meme-just-post-something.mp4",
   "format": "meme",
-  "hook": "Sending [[final_FINAL_v7.pdf]] and closing the laptop like nothing happened",
-  "text": "final_FINAL_v7_REALLYFINAL.pdf 🫡\n\n#designerlife #agencylife #worklife #relatable #graphicdesign #sparkvision #fyp"
+  "hook": "Client: \"just post something\"<br>Us, planning the next [[30 posts]]:",
+  "text": "\"just post something\" is not a strategy ♟️\n\n#marketingstrategy #socialmediamarketing #contentstrategy #agencylife #sparkvision #fyp",
+  "title": "\"just post something\" ♟️",
+  "status": "scheduled"
+ },
+ {
+  "date": "2026-10-29T14:30:00",
+  "network": "tiktok",
+  "type": "VIDEO",
+  "path": "tiktok/meme-viral-by-friday.mp4",
+  "format": "meme",
+  "hook": "When the client asks if it can go viral [[by Friday]]",
+  "title": "viral by friday? 😂",
+  "text": "viral is not a deadline bestie 😂\n\n#clientsbelike #marketingagency #agencylife #socialmediamarketing #relatable #sparkvision #fyp"
+ },
+ {
+  "date": "2026-10-29T16:00:00",
+  "network": "tiktok",
+  "type": "VIDEO",
+  "path": "tiktok/chat-the-brief.mp4",
+  "format": "chat",
+  "hook": "Getting a brief from a [[new client]]:",
+  "title": "the brief: everything, everyone, yesterday",
+  "text": "a brief so clear we can't even 😭 who's had this client?\n\n#clientsbelike #designerlife #agencylife #graphicdesign #freelancer #sparkvision #fyp"
+ },
+ {
+  "date": "2026-10-29T17:30:00",
+  "network": "tiktok",
+  "type": "VIDEO",
+  "path": "tiktok/text-types-of-clients.mp4",
+  "format": "text",
+  "hook": "types of clients 👀",
+  "title": "types of clients 👀",
+  "text": "which type is yours? 👇 be honest\n\n#clientsbelike #agencylife #freelancer #designerlife #marketingagency #sparkvision #fyp"
+ },
+ {
+  "date": "2026-10-29T19:00:00",
+  "network": "tiktok",
+  "type": "VIDEO",
+  "path": "tiktok/meme-great-exposure.mp4",
+  "format": "meme",
+  "hook": "Me reading \"can you do it for free? it's [[great exposure]]\"",
+  "title": "\"it's great exposure\" 😂",
+  "text": "exposure doesn't pay rent 😂 tag a creative who's heard this\n\n#freelancer #designerlife #clientsbelike #creativelife #relatable #sparkvision #fyp"
+ },
+ {
+  "date": "2026-10-29T21:00:00",
+  "network": "tiktok",
+  "type": "VIDEO",
+  "path": "tiktok/chat-tiny-notes.mp4",
+  "format": "chat",
+  "hook": "\"Just a few [[tiny notes]]\":",
+  "title": "\"just a few tiny notes\" 🫠",
+  "text": "\"tiny notes\" = new project 🫠\n\n#clientsbelike #designerlife #agencylife #graphicdesign #feedback #sparkvision #fyp"
+ },
+ {
+  "date": "2026-10-30T07:00:00",
+  "network": "tiktok",
+  "type": "VIDEO",
+  "path": "tiktok/meme-fourth-quick-call.mp4",
+  "format": "meme",
+  "hook": "The team after the [[4th \"quick call\"]] of the day",
+  "title": "the 4th \"quick call\" today 💀",
+  "text": "it could've been an email 💀\n\n#worklife #agencylife #officehumor #relatable #marketingagency #sparkvision #fyp"
+ },
+ {
+  "date": "2026-10-30T08:30:00",
+  "network": "tiktok",
+  "type": "VIDEO",
+  "path": "tiktok/text-marketing-myths.mp4",
+  "format": "text",
+  "hook": "marketing myths 🚫",
+  "title": "marketing myths 🚫",
+  "text": "save this before you \"just post more\" 🚫\n\n#marketingtips #socialmediatips #smallbusiness #contentstrategy #marketing #sparkvision #fyp"
+ },
+ {
+  "date": "2026-10-30T10:00:00",
+  "network": "tiktok",
+  "type": "VIDEO",
+  "path": "tiktok/chat-screen-time.mp4",
+  "format": "chat",
+  "hook": "My phone every [[Sunday]]:",
+  "title": "it's research, i swear 📱",
+  "text": "9 hours of \"market research\" 📱 social media managers you know\n\n#socialmediamanager #screentime #relatable #agencylife #worklife #sparkvision #fyp"
+ },
+ {
+  "date": "2026-10-30T11:30:00",
+  "network": "tiktok",
+  "type": "VIDEO",
+  "path": "tiktok/meme-agreed-on-one-font.mp4",
+  "format": "meme",
+  "hook": "Us and the client after finally agreeing on [[ONE font]]",
+  "title": "we agreed on ONE font 🤝",
+  "text": "historic moment 🤝\n\n#designerlife #clientsbelike #agencylife #graphicdesign #relatable #sparkvision #fyp"
+ },
+ {
+  "date": "2026-10-30T13:00:00",
+  "network": "tiktok",
+  "type": "VIDEO",
+  "path": "tiktok/chat-start-over.mp4",
+  "format": "chat",
+  "hook": "After sending the [[final design]]:",
+  "title": "\"can we start over?\" 😭",
+  "text": "every. single. time. 😭\n\n#clientsbelike #designerlife #agencylife #freelancer #relatable #sparkvision #fyp"
+ },
+ {
+  "date": "2026-10-30T14:30:00",
+  "network": "tiktok",
+  "type": "VIDEO",
+  "path": "tiktok/meme-meeting-could-be-text.mp4",
+  "format": "meme",
+  "hook": "POV: a 2-hour meeting that could've been a [[2-line text]]",
+  "title": "this meeting could be a text 💀",
+  "text": "2 hours. 2 lines. 💀\n\n#officehumor #worklife #meetings #relatable #agencylife #sparkvision #fyp"
+ },
+ {
+  "date": "2026-10-30T16:00:00",
+  "network": "tiktok",
+  "type": "VIDEO",
+  "path": "tiktok/text-client-red-flags.mp4",
+  "format": "text",
+  "hook": "client red flags 🚩",
+  "title": "client red flags 🚩",
+  "text": "how many have you seen? 🚩\n\n#clientsbelike #freelancer #redflags #designerlife #agencylife #sparkvision #fyp"
+ },
+ {
+  "date": "2026-10-30T17:30:00",
+  "network": "tiktok",
+  "type": "VIDEO",
+  "path": "tiktok/chat-help-with-instagram.mp4",
+  "format": "chat",
+  "hook": "When a friend asks for [[\"help\"]]:",
+  "title": "\"can you help with my instagram?\"",
+  "text": "we do strategy. and apparently filters 😂\n\n#socialmediamanager #instagramtips #relatable #agencylife #friends #sparkvision #fyp"
+ },
+ {
+  "date": "2026-10-30T19:00:00",
+  "network": "tiktok",
+  "type": "VIDEO",
+  "path": "tiktok/meme-nodding-on-client-call.mp4",
+  "format": "meme",
+  "hook": "Me nodding on the client call while they explain \"[[make it pop]]\" again",
+  "title": "nodding through \"make it pop\" again",
+  "text": "nod. smile. make it pop. 🙂\n\n#clientsbelike #designerlife #agencylife #worklife #relatable #sparkvision #fyp"
+ },
+ {
+  "date": "2026-10-30T21:00:00",
+  "network": "tiktok",
+  "type": "VIDEO",
+  "path": "tiktok/text-how-long-it-takes.mp4",
+  "format": "text",
+  "hook": "how long content actually takes ⏳",
+  "title": "how long content actually takes ⏳",
+  "text": "the caption always takes the longest ⏳\n\n#contentcreator #socialmediamanager #behindthescenes #agencylife #relatable #sparkvision #fyp"
+ },
+ {
+  "date": "2026-10-31T07:00:00",
+  "network": "tiktok",
+  "type": "VIDEO",
+  "path": "tiktok/meme-research-scrolling.mp4",
+  "format": "meme",
+  "hook": "Me doing \"[[research]]\" for 3 hours straight",
+  "title": "\"research\" 📱",
+  "text": "it IS research. trust us 📱\n\n#socialmediamanager #worklife #relatable #agencylife #contentcreator #sparkvision #fyp"
+ },
+ {
+  "date": "2026-10-31T08:30:00",
+  "network": "tiktok",
+  "type": "VIDEO",
+  "path": "tiktok/chat-comic-sans.mp4",
+  "format": "chat",
+  "hook": "When the client has a [[font in mind]]:",
+  "title": "the client picked a font 😶",
+  "text": "brand guidelines exist for a reason 😶\n\n#designerlife #graphicdesign #clientsbelike #branding #comicsans #sparkvision #fyp"
+ },
+ {
+  "date": "2026-10-31T10:00:00",
+  "network": "tiktok",
+  "type": "VIDEO",
+  "path": "tiktok/meme-feedback-voice-note.mp4",
+  "format": "meme",
+  "hook": "When the client sends feedback as a [[7-minute voice note]]",
+  "title": "feedback as a 7-min voice note 😳",
+  "text": "we listened. twice. 😳\n\n#clientsbelike #agencylife #designerlife #voicenote #relatable #sparkvision #fyp"
+ },
+ {
+  "date": "2026-10-31T11:30:00",
+  "network": "tiktok",
+  "type": "VIDEO",
+  "path": "tiktok/meme-needs-more-pop.mp4",
+  "format": "meme",
+  "hook": "When the client says the design needs more [[pop]]",
+  "text": "define \"pop\" 🙃 asking for a friend\n\n#designerlife #clientsbelike #graphicdesign #agencylife #relatable #sparkvision #fyp",
+  "title": "define \"pop\" 🙃"
  }
 ]

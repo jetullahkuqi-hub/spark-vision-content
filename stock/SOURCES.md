@@ -17,3 +17,10 @@ Check the license on each clip's page before adding a new one: the download box 
 | mixkit-49885.mp4 | https://mixkit.co/free-stock-video/face-of-a-man-thinking-while-playing-chess-49885/ |
 
 Download URL pattern: https://assets.mixkit.co/videos/<id>/<id>-1080.mp4 (fallback -720.mp4).
+| mixkit-4760.mp4 | https://mixkit.co/free-stock-video/man-laughing-head-on-closeup-4760/ |
+| mixkit-8741.mp4 | https://mixkit.co/free-stock-video/man-laughing-out-loud-at-his-cell-phone-8741/ |
+| mixkit-4607.mp4 | https://mixkit.co/free-stock-video/bored-young-office-workers-in-an-office-4607/ |
+| mixkit-30010.mp4 | https://mixkit.co/free-stock-video/two-office-men-approving-data-with-a-handshake-30010/ |
+| mixkit-42666.mp4 | https://mixkit.co/free-stock-video/presentation-during-a-work-team-meeting-42666/ |
+| mixkit-10450.mp4 | https://mixkit.co/free-stock-video/man-in-a-video-call-at-work-is-discovered-by-10450/ |
+| mixkit-4908.mp4 | https://mixkit.co/free-stock-video/person-working-while-scrolling-on-social-networks-4908/ |

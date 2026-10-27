@@ -1,0 +1,50 @@
+{
+ "type": "chat",
+ "duration": 13.5,
+ "music_seed": 41,
+ "caption": "Getting a brief from a [[new client]]:",
+ "contact": "Client",
+ "messages": [
+  {
+   "from": "them",
+   "t": "Hi! We need a logo",
+   "at": 0.2,
+   "typing": false
+  },
+  {
+   "from": "us",
+   "t": "Great! What's your brand about?",
+   "at": 1.8
+  },
+  {
+   "from": "them",
+   "t": "Everything",
+   "at": 3.4
+  },
+  {
+   "from": "us",
+   "t": "Who's your audience?",
+   "at": 4.9
+  },
+  {
+   "from": "them",
+   "t": "Everyone",
+   "at": 6.4
+  },
+  {
+   "from": "us",
+   "t": "Deadline?",
+   "at": 7.8
+  },
+  {
+   "from": "them",
+   "t": "Yesterday",
+   "at": 9.2
+  }
+ ],
+ "end": {
+  "at": 10.8,
+  "line": "We'll make it work. [[Somehow.]]",
+  "cta": "FOLLOW FOR MORE"
+ }
+}

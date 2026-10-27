@@ -1,0 +1,47 @@
+{
+ "type": "chat",
+ "duration": 13.0,
+ "music_seed": 44,
+ "caption": "After sending the [[final design]]:",
+ "contact": "Client",
+ "messages": [
+  {
+   "from": "us",
+   "t": "Hi! Here's the final design",
+   "at": 0.2,
+   "typing": false
+  },
+  {
+   "from": "us",
+   "t": "Just checking in :)",
+   "at": 2.0,
+   "typing": false
+  },
+  {
+   "from": "us",
+   "t": "Hope you're well!",
+   "at": 3.4,
+   "typing": false
+  },
+  {
+   "from": "them",
+   "t": "Hey sorry just saw this",
+   "at": 5.4
+  },
+  {
+   "from": "them",
+   "t": "Can we start over?",
+   "at": 7.2
+  },
+  {
+   "from": "us",
+   "t": "...",
+   "at": 8.8
+  }
+ ],
+ "end": {
+  "at": 10.2,
+  "line": "Every. Single. [[Time.]]",
+  "cta": "FOLLOW FOR MORE"
+ }
+}
