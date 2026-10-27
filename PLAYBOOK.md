@@ -76,6 +76,17 @@ Read `BRAND.md` and `STRATEGY.md` before doing anything.
   "commercialContentThirdParty": false, "commercialContentOwnBrand": true, "title": "", "autoAddMusic": false, "photoCoverIndex": 0, "isAigc": false}`.
   If Metricool rejects a field (e.g. cover on a personal TikTok account), drop that field and retry once.
 
+## Cross-posting mix (owner's request, 28 Oct)
+- Sometimes swap content between the networks, chosen by performance:
+  - **Instagram:** 2–3 times a week, the 18:00 Reel slot is a funny TikTok video (best performer on TikTok, or a fresh meme).
+    Rewrite the caption for Instagram (sentence case, a line of context, a CTA, hashtags incl. #reels).
+  - **TikTok:** 3–5 times a week, one of the 5 daily slots is an Instagram Reel (best performer on Instagram).
+    Rewrite the caption TikTok-style (short, lowercase, #fyp).
+- Never post the same video on both networks on the same day; leave at least 2 days in between.
+- Mark them in the plan files (`"pillar": "fun-crosspost"` on Instagram, `"format": "crosspost-ig-reel"` on TikTok) and compare
+  how cross-posts do against native content in STRATEGY.md.
+- Always upload our original file (no watermarks from the other app).
+
 ## Don'ts
 - Don't delete or edit posts that are already published. Don't touch other Metricool brands.
 - No prices, invented stats, fake testimonials or client names; no copyrighted music or characters.

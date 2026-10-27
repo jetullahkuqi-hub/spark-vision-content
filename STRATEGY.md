@@ -33,4 +33,8 @@ Hypothesis: chat-format skits (client DMs) will beat kinetic-text jokes on watch
 Update 27 Oct: added 8 reaction memes (Mixkit free-license clips + caption). First 15 TikToks alternate meme / skit, **5 per day** (owner's request)
 at 08:00 / 12:00 / 16:00 / 19:00 / 21:00 (`weeks/tiktok-2026-10-28.json`). Test: memes vs chat skits vs kinetic text — keep the format with best watch time and shares.
 
+**Cross-posting (added 28 Oct, owner's request):** mix content between networks. This week: IG Reels on Thu 29 and Sat 31 at 18:00
+swapped for TikTok memes (needs-more-pop, just-post-something); two IG Reels (logo-isnt-your-brand, ready-for-your-next-move) added to the TikTok plan.
+Question to answer: does humour grow the Instagram audience, and does the educational style work on TikTok?
+
 **Ideas queued for later weeks:** carousels (multi-slide tips), "myth vs fact" series, before/after feed audits (generic, no real client names), Reels with a question hook, polls/questions in captions, posting-time test (e.g. 12:00 / 19:00).
