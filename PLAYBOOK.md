@@ -58,13 +58,15 @@ Read `BRAND.md` and `STRATEGY.md` before doing anything.
 
 ## TikTok (only when connected)
 - Check `getBrandSettings`: if `networksData` has a TikTok account, TikTok is live; otherwise skip this section and remind the owner to connect TikTok in Metricool.
-- Cadence: **1 funny video per day** (default 19:00, move it to the best TikTok slot from `getBestTimeToPostByNetwork` with `socialNetwork` `tiktok`).
+- Cadence (owner's rule, 27 Oct): **5 funny videos per day = 35 per week**, default 08:00 / 12:00 / 16:00 / 19:00 / 21:00
+  (shift slots toward the best TikTok hours from `getBestTimeToPostByNetwork` with `socialNetwork` `tiktok`, keep 5 per day, at least 2.5 h apart).
+  Skip slots that are already in the past when scheduling. Mix formats every day (e.g. 2 memes, 2 chat skits, 1 kinetic text) and shift the mix toward what performs.
 - TikTok gets its **own funny videos** (see BRAND.md › TikTok), never the Instagram Reels. Scripts in `tiktok-src/<slug>.json`
   (format at the top of `tools/make_tiktoks.py`), render with `python3 tools/make_tiktoks.py [slug] [--preview]` → `tiktok/<slug>.mp4`.
   Check the previews in `tiktok/_preview/` before the full render.
 - More stock clips: search `https://mixkit.co/free-stock-video/<term>/`, open each clip page and use it only if the download box says
   "Mixkit Stock Video Free License" (skip "Restricted"). Download `https://assets.mixkit.co/videos/<id>/<id>-1080.mp4`, compress
-  (`ffmpeg -an -vf scale=… -crf 24`), save as `stock/mixkit-<id>.mp4` and add a row to `stock/SOURCES.md`. Reuse a clip at most once a month.
+  (`ffmpeg -an -vf scale=… -crf 24`), save as `stock/mixkit-<id>.mp4` and add a row to `stock/SOURCES.md`. A clip may be reused with a different joke after 2 weeks; prefer fresh clips.
 - The owner may also send his own filmed skits in chat; when a run finds new raw clips in `owner-clips/`, edit them first.
 - Analyse TikTok separately (views, average watch time / completion if available, likes, comments, shares, follows) and
   write a TikTok subsection in STRATEGY.md: which jokes/formats worked, what to try next.

@@ -30,7 +30,7 @@ Times come from Metricool best-time data (weekday peak 10:00; second bump 17:00�
 **TikTok (added 27 Oct):** owner wants separate, funny videos on TikTok. Prepared 7 videos (4 chat-format, 3 kinetic-text),
 1 per day at 19:00, waiting for TikTok to be connected in Metricool. Plan: `weeks/tiktok-2026-10-27.json`.
 Hypothesis: chat-format skits (client DMs) will beat kinetic-text jokes on watch time.
-Update 27 Oct: added 8 reaction memes (Mixkit free-license clips + caption). First 15 TikToks alternate meme / skit, 1 per day
-at 19:00 (`weeks/tiktok-2026-10-28.json`). Test: memes vs chat skits vs kinetic text — keep the format with best watch time and shares.
+Update 27 Oct: added 8 reaction memes (Mixkit free-license clips + caption). First 15 TikToks alternate meme / skit, **5 per day** (owner's request)
+at 08:00 / 12:00 / 16:00 / 19:00 / 21:00 (`weeks/tiktok-2026-10-28.json`). Test: memes vs chat skits vs kinetic text — keep the format with best watch time and shares.
 
 **Ideas queued for later weeks:** carousels (multi-slide tips), "myth vs fact" series, before/after feed audits (generic, no real client names), Reels with a question hook, polls/questions in captions, posting-time test (e.g. 12:00 / 19:00).
