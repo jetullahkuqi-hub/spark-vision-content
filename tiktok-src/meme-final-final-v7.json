@@ -1,0 +1,15 @@
+{
+ "type": "meme",
+ "clip": "stock/mixkit-4954.mp4",
+ "start": 3.3,
+ "length": 7.0,
+ "cx": 0.5,
+ "cy": 0.05,
+ "music_seed": 27,
+ "cap_size": 72,
+ "caption": "Sending [[final_FINAL_v7.pdf]] and closing the laptop like nothing happened",
+ "end": {
+  "line": "Done is better than [[perfect.]]",
+  "cta": "FOLLOW FOR MORE"
+ }
+}

@@ -1,0 +1,14 @@
+{
+ "type": "meme",
+ "clip": "stock/mixkit-25595.mp4",
+ "start": 3.0,
+ "length": 7.0,
+ "cx": 0.6,
+ "cy": 0.5,
+ "music_seed": 28,
+ "caption": "Draft #14 after the client [[\"had a new idea\"]]",
+ "end": {
+  "line": "Patience is part of the [[package.]]",
+  "cta": "FOLLOW FOR MORE"
+ }
+}

@@ -1,0 +1,14 @@
+{
+ "type": "meme",
+ "clip": "stock/mixkit-4508.mp4",
+ "start": 0.0,
+ "length": 6.0,
+ "cx": 0.5,
+ "cy": 0.5,
+ "music_seed": 22,
+ "caption": "Me checking the analytics after posting [[once in 3 months]]",
+ "end": {
+  "line": "Consistency [[beats luck.]]",
+  "cta": "FOLLOW FOR TIPS"
+ }
+}

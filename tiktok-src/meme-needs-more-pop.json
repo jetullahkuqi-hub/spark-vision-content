@@ -1,0 +1,14 @@
+{
+ "type": "meme",
+ "clip": "stock/mixkit-25575.mp4",
+ "start": 2.0,
+ "length": 7.0,
+ "cx": 0.32,
+ "cy": 0.5,
+ "music_seed": 21,
+ "caption": "When the client says the design needs more [[pop]]",
+ "end": {
+  "line": "We speak fluent [[client.]]",
+  "cta": "FOLLOW FOR MORE"
+ }
+}

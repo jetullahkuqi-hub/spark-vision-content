@@ -20,7 +20,10 @@ Bio line: "Growing brands through content." Sister account: @sparkvisionn.swiss.
 - The owner wants **different, funny videos on TikTok** – not the Instagram Reels.
 - Humour: relatable agency / client / small-business-owner moments (client requests, the algorithm, posting consistency,
   explaining the job). Punch up, never down; no real people, clients or brands; nothing mean about anyone's looks, origin etc.
-- Formats: `chat` (DM conversation with typing dots and pop sounds) and `text` (kinetic text), both via `tools/make_tiktoks.py`.
+- Formats: `meme` (caption on top + licensed stock reaction clip), `chat` (DM conversation with typing dots and pop sounds) and
+  `text` (kinetic text), all via `tools/make_tiktoks.py`.
+- Stock footage: ONLY Mixkit clips with the **Mixkit Stock Video Free License** (see `stock/SOURCES.md`). Never download or repost
+  other people's videos from YouTube/TikTok/Instagram — copyright and account-strike risk. Owner agreed to this approach.
   Try new formats when the data says so.
 - Captions: short, lowercase, casual, one emoji is fine, a question or "tag someone" CTA, 5–7 hashtags incl. #sparkvision.
 - Keep important text away from the right edge (TikTok's buttons) and the bottom ~300 px (TikTok's caption).

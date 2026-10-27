@@ -62,6 +62,10 @@ Read `BRAND.md` and `STRATEGY.md` before doing anything.
 - TikTok gets its **own funny videos** (see BRAND.md › TikTok), never the Instagram Reels. Scripts in `tiktok-src/<slug>.json`
   (format at the top of `tools/make_tiktoks.py`), render with `python3 tools/make_tiktoks.py [slug] [--preview]` → `tiktok/<slug>.mp4`.
   Check the previews in `tiktok/_preview/` before the full render.
+- More stock clips: search `https://mixkit.co/free-stock-video/<term>/`, open each clip page and use it only if the download box says
+  "Mixkit Stock Video Free License" (skip "Restricted"). Download `https://assets.mixkit.co/videos/<id>/<id>-1080.mp4`, compress
+  (`ffmpeg -an -vf scale=… -crf 24`), save as `stock/mixkit-<id>.mp4` and add a row to `stock/SOURCES.md`. Reuse a clip at most once a month.
+- The owner may also send his own filmed skits in chat; when a run finds new raw clips in `owner-clips/`, edit them first.
 - Analyse TikTok separately (views, average watch time / completion if available, likes, comments, shares, follows) and
   write a TikTok subsection in STRATEGY.md: which jokes/formats worked, what to try next.
 - Plan file: `weeks/tiktok-<first-day>.json`. Schedule with `createScheduledPost`:

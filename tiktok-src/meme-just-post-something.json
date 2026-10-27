@@ -1,0 +1,15 @@
+{
+ "type": "meme",
+ "clip": "stock/mixkit-49885.mp4",
+ "start": 1.0,
+ "length": 7.0,
+ "cx": 0.55,
+ "cy": 0.5,
+ "music_seed": 25,
+ "cap_size": 76,
+ "caption": "Client: \"just post something\"<br>Us, planning the next [[30 posts]]:",
+ "end": {
+  "line": "Strategy that [[delivers.]]",
+  "cta": "SEND US A DM"
+ }
+}

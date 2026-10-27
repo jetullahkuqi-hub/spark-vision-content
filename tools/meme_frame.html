@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<link rel="stylesheet" href="FONTS_CSS">
+<style>
+html,body{margin:0;width:1080px;height:1920px;overflow:hidden;background:transparent}
+#top{position:absolute;left:0;right:0;top:0;height:VIDEO_TOPpx;background:linear-gradient(180deg,#071030 0%,#050c26 100%);
+ display:flex;align-items:flex-end;justify-content:center;box-sizing:border-box;padding:0 130px 46px 70px}
+#cap{font-family:'Barlow Condensed';font-weight:800;font-size:CAP_SIZEpx;line-height:1.04;text-transform:uppercase;color:#fff;text-align:center;text-wrap:balance}
+#cap .a{color:#3D7BFF}
+#bot{position:absolute;left:0;right:0;top:VIDEO_BOTTOMpx;bottom:0;background:#050c26;display:flex;align-items:flex-start;justify-content:space-between;
+ box-sizing:border-box;padding:34px 140px 0 70px}
+#bot img{height:64px}
+#bot span{font-family:'Barlow';font-weight:600;font-size:34px;color:#dfe7ff;margin-top:12px}
+#line{position:absolute;left:0;right:0;top:VIDEO_TOPpx;height:4px;background:#3D7BFF;box-shadow:0 0 22px #3D7BFF}
+/* end card */
+#end{position:absolute;inset:0;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:40px;text-align:center;padding:0 110px;
+ background:radial-gradient(ellipse 70% 40% at 50% 45%,rgba(45,100,255,.35),rgba(45,100,255,0) 70%),linear-gradient(180deg,#071030,#030817)}
+#end img{width:720px}
+#endline{font-family:'Barlow Condensed';font-weight:800;font-size:100px;line-height:1;text-transform:uppercase;color:#fff;text-wrap:balance}
+#endline .a{color:#3D7BFF}
+#cta{background:#3D7BFF;border-radius:999px;padding:26px 52px;font-family:'Barlow Condensed';font-weight:800;font-size:60px;color:#fff;box-shadow:0 0 60px rgba(61,123,255,.6)}
+#handle2{font-family:'Barlow';font-weight:600;font-size:36px;color:#a9bdf0}
+</style>
+</head>
+<body>
+<div id="frame">
+ <div id="top"><div id="cap">CAPTION</div></div>
+ <div id="line"></div>
+ <div id="bot"><img src="LOGOFULL" alt=""><span>@spark_visionn</span></div>
+</div>
+<div id="end" style="display:none"><img src="LOGOFULL" alt=""><div id="endline">ENDLINE</div><div id="cta">CTA</div><div id="handle2">@spark_visionn</div></div>
+</body>
+</html>

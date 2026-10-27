@@ -1,0 +1,14 @@
+{
+ "type": "meme",
+ "clip": "stock/mixkit-4872.mp4",
+ "start": 2.0,
+ "length": 7.0,
+ "cx": 0.55,
+ "cy": 0.5,
+ "music_seed": 26,
+ "caption": "When the client says their nephew can do it [[cheaper]]",
+ "end": {
+  "line": "Good luck, [[nephew.]]",
+  "cta": "FOLLOW FOR MORE"
+ }
+}

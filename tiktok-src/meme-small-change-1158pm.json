@@ -1,0 +1,15 @@
+{
+ "type": "meme",
+ "clip": "stock/mixkit-39854.mp4",
+ "start": 1.0,
+ "length": 7.0,
+ "cx": 0.5,
+ "cy": 0.15,
+ "music_seed": 24,
+ "cap_size": 76,
+ "caption": "Client at [[11:58 PM]]: \"one small change before tomorrow?\"",
+ "end": {
+  "line": "We still love you, [[clients.]]",
+  "cta": "FOLLOW FOR MORE"
+ }
+}

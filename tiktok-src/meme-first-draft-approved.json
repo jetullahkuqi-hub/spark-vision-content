@@ -1,0 +1,14 @@
+{
+ "type": "meme",
+ "clip": "stock/mixkit-43831.mp4",
+ "start": 0.0,
+ "length": 7.0,
+ "cx": 0.5,
+ "cy": 0.5,
+ "music_seed": 23,
+ "caption": "When the client approves the [[first draft]] with zero changes",
+ "end": {
+  "line": "It happens. [[Rarely.]]",
+  "cta": "FOLLOW FOR MORE"
+ }
+}
