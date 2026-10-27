@@ -1,0 +1,45 @@
+{
+ "type": "chat",
+ "duration": 12.5,
+ "music_seed": 3,
+ "caption": "Me after posting [[once a month]]:",
+ "contact": "The Algorithm",
+ "messages": [
+  {
+   "from": "us",
+   "t": "Hi! I posted!",
+   "at": 0.2,
+   "typing": false
+  },
+  {
+   "from": "them",
+   "t": "Who are you?",
+   "at": 1.7
+  },
+  {
+   "from": "us",
+   "t": "I posted last month too",
+   "at": 3.3
+  },
+  {
+   "from": "them",
+   "t": "Exactly.",
+   "at": 4.9
+  },
+  {
+   "from": "us",
+   "t": "So... what do I do?",
+   "at": 6.5
+  },
+  {
+   "from": "them",
+   "t": "Show up. Every week.",
+   "at": 8.1
+  }
+ ],
+ "end": {
+  "at": 9.8,
+  "line": "Consistency [[beats luck.]]",
+  "cta": "FOLLOW FOR TIPS"
+ }
+}

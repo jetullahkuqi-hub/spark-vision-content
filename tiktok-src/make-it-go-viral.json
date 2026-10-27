@@ -1,0 +1,50 @@
+{
+ "type": "chat",
+ "duration": 14.0,
+ "music_seed": 6,
+ "caption": "POV: the client wants it to [[go viral]]",
+ "contact": "Client",
+ "messages": [
+  {
+   "from": "them",
+   "t": "We need this video to go viral",
+   "at": 0.2,
+   "typing": false
+  },
+  {
+   "from": "us",
+   "t": "Love it. What's the plan?",
+   "at": 1.9
+  },
+  {
+   "from": "them",
+   "t": "Post it.",
+   "at": 3.5
+  },
+  {
+   "from": "us",
+   "t": "And then?",
+   "at": 5.0
+  },
+  {
+   "from": "them",
+   "t": "It goes viral.",
+   "at": 6.5
+  },
+  {
+   "from": "us",
+   "t": "Got it. Who is it for?",
+   "at": 8.1
+  },
+  {
+   "from": "them",
+   "t": "Everyone.",
+   "at": 9.6
+  }
+ ],
+ "end": {
+  "at": 11.0,
+  "line": "Viral isn't a plan. [[Strategy]] is.",
+  "cta": "LET'S TALK"
+ }
+}

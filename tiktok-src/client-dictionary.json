@@ -1,0 +1,85 @@
+{
+ "type": "text",
+ "tag": "CLIENT DICTIONARY",
+ "duration": 13.0,
+ "music_seed": 9,
+ "scenes": [
+  {
+   "start": 0.0,
+   "end": 3.0,
+   "lines": [
+    {
+     "t": "THEY SAY / THEY MEAN",
+     "cls": "kick"
+    },
+    {
+     "t": "\"Small change\"",
+     "size": 120
+    },
+    {
+     "t": "= [[redo it all.]]",
+     "size": 120
+    }
+   ]
+  },
+  {
+   "start": 3.0,
+   "end": 5.6,
+   "lines": [
+    {
+     "t": "\"Make it modern\"",
+     "size": 110
+    },
+    {
+     "t": "= [[make it blue.]]",
+     "size": 110
+    }
+   ]
+  },
+  {
+   "start": 5.6,
+   "end": 8.0,
+   "lines": [
+    {
+     "t": "\"ASAP\"",
+     "size": 170
+    },
+    {
+     "t": "= [[yesterday.]]",
+     "size": 140
+    }
+   ]
+  },
+  {
+   "start": 8.0,
+   "end": 10.6,
+   "lines": [
+    {
+     "t": "\"I&#39;ll know it when I see it\"",
+     "size": 100
+    },
+    {
+     "t": "= [[good luck.]]",
+     "size": 130
+    }
+   ]
+  },
+  {
+   "start": 10.6,
+   "end": 13.0,
+   "center": true,
+   "lines": [
+    {
+     "logo": true
+    },
+    {
+     "t": "Fluent in client since day one.",
+     "cls": "sub"
+    },
+    {
+     "pill": "FOLLOW FOR MORE"
+    }
+   ]
+  }
+ ]
+}

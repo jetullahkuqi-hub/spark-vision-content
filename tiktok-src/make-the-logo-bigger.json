@@ -1,0 +1,50 @@
+{
+ "type": "chat",
+ "duration": 13.0,
+ "music_seed": 1,
+ "caption": "Every designer at [[11:47 PM]]:",
+ "contact": "Client",
+ "messages": [
+  {
+   "from": "them",
+   "t": "Hey, quick question",
+   "at": 0.2,
+   "typing": false
+  },
+  {
+   "from": "them",
+   "t": "Can you make the logo bigger?",
+   "at": 1.6
+  },
+  {
+   "from": "us",
+   "t": "Sure. Done.",
+   "at": 3.3
+  },
+  {
+   "from": "them",
+   "t": "Hmm. Now make it smaller.",
+   "at": 5.0
+  },
+  {
+   "from": "them",
+   "t": "But keep it big.",
+   "at": 6.5
+  },
+  {
+   "from": "us",
+   "t": "...",
+   "at": 7.9
+  },
+  {
+   "from": "them",
+   "t": "And make it pop.",
+   "at": 9.0
+  }
+ ],
+ "end": {
+  "at": 10.6,
+  "line": "We speak fluent [[client.]]",
+  "cta": "FOLLOW FOR MORE"
+ }
+}

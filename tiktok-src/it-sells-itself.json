@@ -1,0 +1,79 @@
+{
+ "type": "text",
+ "tag": "TRUE STORY",
+ "duration": 11.0,
+ "music_seed": 12,
+ "scenes": [
+  {
+   "start": 0.0,
+   "end": 2.8,
+   "lines": [
+    {
+     "t": "CLIENT, JANUARY",
+     "cls": "kick"
+    },
+    {
+     "t": "\"Our product",
+     "size": 150
+    },
+    {
+     "t": "[[sells itself.\"]]",
+     "size": 150
+    }
+   ]
+  },
+  {
+   "start": 2.8,
+   "end": 5.2,
+   "lines": [
+    {
+     "t": "MARCH",
+     "cls": "kick"
+    },
+    {
+     "t": "Nobody knows",
+     "size": 150
+    },
+    {
+     "t": "it [[exists.]]",
+     "size": 150
+    }
+   ]
+  },
+  {
+   "start": 5.2,
+   "end": 8.0,
+   "lines": [
+    {
+     "t": "APRIL",
+     "cls": "kick"
+    },
+    {
+     "t": "\"Hey...",
+     "size": 170
+    },
+    {
+     "t": "are you [[free?\"]]",
+     "size": 150
+    }
+   ]
+  },
+  {
+   "start": 8.0,
+   "end": 11.0,
+   "center": true,
+   "lines": [
+    {
+     "logo": true
+    },
+    {
+     "t": "Great products still need to be seen.",
+     "cls": "sub"
+    },
+    {
+     "pill": "SEND US A DM"
+    }
+   ]
+  }
+ ]
+}

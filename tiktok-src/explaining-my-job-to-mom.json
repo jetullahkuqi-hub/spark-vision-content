@@ -1,0 +1,45 @@
+{
+ "type": "chat",
+ "duration": 12.5,
+ "music_seed": 14,
+ "caption": "Explaining my job to [[my mom]]:",
+ "contact": "Mom",
+ "messages": [
+  {
+   "from": "us",
+   "t": "Mom, I'm a social media manager",
+   "at": 0.2,
+   "typing": false
+  },
+  {
+   "from": "them",
+   "t": "So you play on your phone",
+   "at": 1.9
+  },
+  {
+   "from": "us",
+   "t": "No, I build brand strategies",
+   "at": 3.6
+  },
+  {
+   "from": "them",
+   "t": "On your phone?",
+   "at": 5.2
+  },
+  {
+   "from": "us",
+   "t": "...yes",
+   "at": 6.7
+  },
+  {
+   "from": "them",
+   "t": "Nice. Can you fix my Facebook?",
+   "at": 8.2
+  }
+ ],
+ "end": {
+  "at": 9.9,
+  "line": "It's a real job. [[We promise.]]",
+  "cta": "FOLLOW FOR MORE"
+ }
+}

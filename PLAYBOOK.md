@@ -56,6 +56,20 @@ Read `BRAND.md` and `STRATEGY.md` before doing anything.
 10. **Report to the owner in Albanian** (short): what worked last week (with the real numbers), what changes this week and why,
     and the new schedule. If anything failed, say exactly what and what he needs to do.
 
+## TikTok (only when connected)
+- Check `getBrandSettings`: if `networksData` has a TikTok account, TikTok is live; otherwise skip this section and remind the owner to connect TikTok in Metricool.
+- Cadence: **1 funny video per day** (default 19:00, move it to the best TikTok slot from `getBestTimeToPostByNetwork` with `socialNetwork` `tiktok`).
+- TikTok gets its **own funny videos** (see BRAND.md › TikTok), never the Instagram Reels. Scripts in `tiktok-src/<slug>.json`
+  (format at the top of `tools/make_tiktoks.py`), render with `python3 tools/make_tiktoks.py [slug] [--preview]` → `tiktok/<slug>.mp4`.
+  Check the previews in `tiktok/_preview/` before the full render.
+- Analyse TikTok separately (views, average watch time / completion if available, likes, comments, shares, follows) and
+  write a TikTok subsection in STRATEGY.md: which jokes/formats worked, what to try next.
+- Plan file: `weeks/tiktok-<first-day>.json`. Schedule with `createScheduledPost`:
+  `"providers": [{"network": "tiktok"}]`, media = the `.mp4`, `"videoCoverMilliseconds": 600`,
+  `"tiktokData": {"disableComment": false, "disableDuet": false, "disableStitch": false, "privacyOption": "PUBLIC_TO_EVERYONE",
+  "commercialContentThirdParty": false, "commercialContentOwnBrand": true, "title": "", "autoAddMusic": false, "photoCoverIndex": 0, "isAigc": false}`.
+  If Metricool rejects a field (e.g. cover on a personal TikTok account), drop that field and retry once.
+
 ## Don'ts
 - Don't delete or edit posts that are already published. Don't touch other Metricool brands.
 - No prices, invented stats, fake testimonials or client names; no copyrighted music or characters.

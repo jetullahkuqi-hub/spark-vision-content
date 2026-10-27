@@ -27,4 +27,8 @@ Times come from Metricool best-time data (weekday peak 10:00; second bump 17:00â
 2. Tip/checklist posts will get the most saves; hot takes the most shares.
 3. Pure service posts will get the lowest reach.
 
+**TikTok (added 27 Oct):** owner wants separate, funny videos on TikTok. Prepared 7 videos (4 chat-format, 3 kinetic-text),
+1 per day at 19:00, waiting for TikTok to be connected in Metricool. Plan: `weeks/tiktok-2026-10-27.json`.
+Hypothesis: chat-format skits (client DMs) will beat kinetic-text jokes on watch time.
+
 **Ideas queued for later weeks:** carousels (multi-slide tips), "myth vs fact" series, before/after feed audits (generic, no real client names), Reels with a question hook, polls/questions in captions, posting-time test (e.g. 12:00 / 19:00).

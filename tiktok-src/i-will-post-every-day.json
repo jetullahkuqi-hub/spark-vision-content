@@ -1,0 +1,97 @@
+{
+ "type": "text",
+ "tag": "RELATABLE",
+ "duration": 11.5,
+ "music_seed": 7,
+ "scenes": [
+  {
+   "start": 0.0,
+   "end": 2.4,
+   "lines": [
+    {
+     "t": "DAY 1",
+     "cls": "kick"
+    },
+    {
+     "t": "\"I&#39;ll post",
+     "size": 160
+    },
+    {
+     "t": "[[every day.\"]]",
+     "size": 160
+    }
+   ]
+  },
+  {
+   "start": 2.4,
+   "end": 4.4,
+   "lines": [
+    {
+     "t": "DAY 3",
+     "cls": "kick"
+    },
+    {
+     "t": "\"Every other",
+     "size": 150
+    },
+    {
+     "t": "day is fine.\"",
+     "size": 150
+    }
+   ]
+  },
+  {
+   "start": 4.4,
+   "end": 6.4,
+   "lines": [
+    {
+     "t": "DAY 12",
+     "cls": "kick"
+    },
+    {
+     "t": "\"I&#39;ll post when",
+     "size": 130
+    },
+    {
+     "t": "I have time.\"",
+     "size": 140
+    }
+   ]
+  },
+  {
+   "start": 6.4,
+   "end": 8.6,
+   "lines": [
+    {
+     "t": "DAY 47",
+     "cls": "kick"
+    },
+    {
+     "t": "Account:",
+     "size": 160
+    },
+    {
+     "t": "[[abandoned.]]",
+     "size": 160
+    }
+   ]
+  },
+  {
+   "start": 8.6,
+   "end": 11.5,
+   "center": true,
+   "lines": [
+    {
+     "logo": true
+    },
+    {
+     "t": "Busy? We&#39;ll post for you.",
+     "cls": "sub"
+    },
+    {
+     "pill": "SEND US A DM"
+    }
+   ]
+  }
+ ]
+}
