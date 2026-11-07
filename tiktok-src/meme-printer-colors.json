@@ -1,0 +1,15 @@
+{
+ "type": "meme",
+ "clip": "stock/mixkit-25595.mp4",
+ "start": 8.0,
+ "length": 5.0,
+ "cx": 0.6,
+ "cy": 0.5,
+ "music_seed": 229,
+ "caption": "When the client prints the design and the blue turns [[purple]]",
+ "end": {
+  "line": "Screen and print are [[different.]]",
+  "cta": "FOLLOW FOR MORE"
+ },
+ "cap_size": 76
+}

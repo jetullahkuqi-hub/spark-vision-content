@@ -1,0 +1,40 @@
+{
+ "type": "chat",
+ "duration": 11.6,
+ "music_seed": 204,
+ "caption": "Which reply would [[YOU]] send? \ud83d\udc47",
+ "contact": "Client",
+ "messages": [
+  {
+   "from": "them",
+   "t": "Can we try one more font?",
+   "at": 0.2,
+   "typing": false
+  },
+  {
+   "from": "us",
+   "t": "That's font number 23",
+   "at": 2.0
+  },
+  {
+   "from": "them",
+   "t": "I know",
+   "at": 3.7
+  },
+  {
+   "from": "them",
+   "t": "but what if 24 is the one",
+   "at": 5.1
+  },
+  {
+   "from": "us",
+   "t": "...",
+   "at": 6.9
+  }
+ ],
+ "end": {
+  "at": 8.6,
+  "line": "Comment your [[reply]] below",
+  "cta": "COMMENT BELOW"
+ }
+}

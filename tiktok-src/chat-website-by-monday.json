@@ -1,0 +1,50 @@
+{
+ "type": "chat",
+ "duration": 16.1,
+ "music_seed": 201,
+ "caption": "POV: the client needs a [[full website]] by Monday",
+ "contact": "Client",
+ "messages": [
+  {
+   "from": "them",
+   "t": "Hey! Can we launch the website Monday?",
+   "at": 0.2,
+   "typing": false
+  },
+  {
+   "from": "us",
+   "t": "Sure, send us the texts and photos",
+   "at": 2.3
+  },
+  {
+   "from": "them",
+   "t": "What texts?",
+   "at": 4.2
+  },
+  {
+   "from": "us",
+   "t": "For the pages",
+   "at": 5.8
+  },
+  {
+   "from": "them",
+   "t": "Can't you just write something?",
+   "at": 7.3
+  },
+  {
+   "from": "us",
+   "t": "About your business?",
+   "at": 9.2
+  },
+  {
+   "from": "them",
+   "t": "Yes but make it sound like me",
+   "at": 10.9
+  }
+ ],
+ "end": {
+  "at": 13.1,
+  "line": "A great website starts with a [[plan.]]",
+  "cta": "FOLLOW FOR MORE"
+ }
+}

@@ -1,0 +1,15 @@
+{
+ "type": "meme",
+ "clip": "stock/mixkit-25575.mp4",
+ "start": 7.0,
+ "length": 7.0,
+ "cx": 0.35,
+ "cy": 0.5,
+ "music_seed": 224,
+ "caption": "The brief: [[\"do whatever you want\"]]<br>The feedback: \"not like that\"",
+ "end": {
+  "line": "A clear brief saves [[weeks.]]",
+  "cta": "FOLLOW FOR MORE"
+ },
+ "cap_size": 74
+}

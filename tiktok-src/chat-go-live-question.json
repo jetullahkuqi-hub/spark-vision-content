@@ -1,0 +1,40 @@
+{
+ "type": "chat",
+ "duration": 11.7,
+ "music_seed": 218,
+ "caption": "Would you [[launch]] it? \ud83d\udc47",
+ "contact": "Client",
+ "messages": [
+  {
+   "from": "them",
+   "t": "Website is ready?",
+   "at": 0.2,
+   "typing": false
+  },
+  {
+   "from": "us",
+   "t": "95%",
+   "at": 1.8
+  },
+  {
+   "from": "them",
+   "t": "Let's launch",
+   "at": 3.2
+  },
+  {
+   "from": "us",
+   "t": "The contact form doesn't work yet",
+   "at": 4.7
+  },
+  {
+   "from": "them",
+   "t": "Nobody will notice",
+   "at": 6.7
+  }
+ ],
+ "end": {
+  "at": 8.7,
+  "line": "Comment: launch or [[wait?]]",
+  "cta": "COMMENT BELOW"
+ }
+}

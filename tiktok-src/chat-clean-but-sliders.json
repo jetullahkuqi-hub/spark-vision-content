@@ -1,0 +1,45 @@
+{
+ "type": "chat",
+ "duration": 13.7,
+ "music_seed": 202,
+ "caption": "Every web designer has heard [[this one]]",
+ "contact": "Client",
+ "messages": [
+  {
+   "from": "them",
+   "t": "Can the website look like a big tech brand?",
+   "at": 0.2,
+   "typing": false
+  },
+  {
+   "from": "us",
+   "t": "Clean and simple? Love it",
+   "at": 2.3
+  },
+  {
+   "from": "them",
+   "t": "Yes! But also",
+   "at": 4.1
+  },
+  {
+   "from": "them",
+   "t": "add 14 sliders",
+   "at": 5.7
+  },
+  {
+   "from": "them",
+   "t": "and music when it opens",
+   "at": 7.2
+  },
+  {
+   "from": "us",
+   "t": "...",
+   "at": 9.0
+  }
+ ],
+ "end": {
+  "at": 10.7,
+  "line": "Clean design is a [[choice.]]",
+  "cta": "FOLLOW FOR MORE"
+ }
+}

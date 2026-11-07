@@ -1,0 +1,40 @@
+{
+ "type": "chat",
+ "duration": 12.3,
+ "music_seed": 220,
+ "caption": "When the client asks who replies to [[comments]]",
+ "contact": "Client",
+ "messages": [
+  {
+   "from": "them",
+   "t": "Who answers the comments?",
+   "at": 0.2,
+   "typing": false
+  },
+  {
+   "from": "us",
+   "t": "You approved our plan, so we do",
+   "at": 2.0
+  },
+  {
+   "from": "them",
+   "t": "Great",
+   "at": 3.9
+  },
+  {
+   "from": "them",
+   "t": "Can you also reply to my mom?",
+   "at": 5.3
+  },
+  {
+   "from": "them",
+   "t": "She comments on every post",
+   "at": 7.2
+  }
+ ],
+ "end": {
+  "at": 9.3,
+  "line": "Community is part of the [[job.]]",
+  "cta": "FOLLOW FOR MORE"
+ }
+}

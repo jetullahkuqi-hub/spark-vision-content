@@ -1,0 +1,45 @@
+{
+ "type": "chat",
+ "duration": 13.7,
+ "music_seed": 211,
+ "caption": "The client discovered [[AI]] last night",
+ "contact": "Client",
+ "messages": [
+  {
+   "from": "them",
+   "t": "I made our new logo with AI",
+   "at": 0.2,
+   "typing": false
+  },
+  {
+   "from": "us",
+   "t": "Oh nice, can we see?",
+   "at": 2.0
+  },
+  {
+   "from": "them",
+   "t": "It's a lion",
+   "at": 3.7
+  },
+  {
+   "from": "them",
+   "t": "with 7 fingers",
+   "at": 5.3
+  },
+  {
+   "from": "us",
+   "t": "Lions don't have fingers",
+   "at": 6.8
+  },
+  {
+   "from": "them",
+   "t": "That's why it's unique",
+   "at": 8.6
+  }
+ ],
+ "end": {
+  "at": 10.7,
+  "line": "Tools help. [[Strategy]] decides.",
+  "cta": "FOLLOW FOR MORE"
+ }
+}

@@ -1,0 +1,15 @@
+{
+ "type": "meme",
+ "clip": "stock/mixkit-42666.mp4",
+ "start": 3.0,
+ "length": 6.0,
+ "cx": 0.55,
+ "cy": 0.5,
+ "music_seed": 223,
+ "caption": "Me explaining [[reach vs impressions]] for the 5th time",
+ "end": {
+  "line": "Simple reports. [[Real]] numbers.",
+  "cta": "FOLLOW FOR MORE"
+ },
+ "cap_size": 78
+}

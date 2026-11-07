@@ -1,0 +1,14 @@
+{
+ "type": "meme",
+ "clip": "stock/mixkit-4908.mp4",
+ "start": 6.0,
+ "length": 6.0,
+ "cx": 0.55,
+ "cy": 0.5,
+ "music_seed": 226,
+ "caption": "Me \"just checking\" what the [[competitors]] posted",
+ "end": {
+  "line": "Research, but make it [[strategy.]]",
+  "cta": "FOLLOW FOR MORE"
+ }
+}

@@ -1,0 +1,14 @@
+{
+ "type": "meme",
+ "clip": "stock/mixkit-30010.mp4",
+ "start": 3.5,
+ "length": 5.0,
+ "cx": 0.5,
+ "cy": 0.5,
+ "music_seed": 221,
+ "caption": "Us after the website finally goes [[live]] at 2 AM",
+ "end": {
+  "line": "Launch day hits [[different.]]",
+  "cta": "FOLLOW FOR MORE"
+ }
+}

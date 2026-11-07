@@ -1,0 +1,45 @@
+{
+ "type": "chat",
+ "duration": 13.5,
+ "music_seed": 210,
+ "caption": "When the client wants the logo [[everywhere]]",
+ "contact": "Client",
+ "messages": [
+  {
+   "from": "them",
+   "t": "Put the logo on every photo",
+   "at": 0.2,
+   "typing": false
+  },
+  {
+   "from": "us",
+   "t": "Sure, small in the corner?",
+   "at": 2.0
+  },
+  {
+   "from": "them",
+   "t": "No, big",
+   "at": 3.9
+  },
+  {
+   "from": "them",
+   "t": "in the middle",
+   "at": 5.3
+  },
+  {
+   "from": "us",
+   "t": "What about the product?",
+   "at": 6.9
+  },
+  {
+   "from": "them",
+   "t": "Behind the logo",
+   "at": 8.6
+  }
+ ],
+ "end": {
+  "at": 10.5,
+  "line": "Your logo isn't your [[brand.]]",
+  "cta": "FOLLOW FOR MORE"
+ }
+}

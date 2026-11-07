@@ -1,0 +1,86 @@
+{
+ "tag": "GROWTH",
+ "duration": 12.0,
+ "music_seed": 71,
+ "scenes": [
+  {
+   "start": 0,
+   "end": 2.8,
+   "lines": [
+    {
+     "t": "10,000",
+     "size": 200
+    },
+    {
+     "t": "followers.",
+     "size": 160
+    },
+    {
+     "t": "[[0 clients?]]",
+     "size": 150
+    }
+   ]
+  },
+  {
+   "start": 2.8,
+   "end": 5.6,
+   "lines": [
+    {
+     "t": "Then it&#39;s",
+     "size": 150
+    },
+    {
+     "t": "not a",
+     "size": 150
+    },
+    {
+     "t": "[[reach]]",
+     "size": 190
+    },
+    {
+     "t": "problem.",
+     "size": 150
+    }
+   ]
+  },
+  {
+   "start": 5.6,
+   "end": 9.0,
+   "lines": [
+    {
+     "t": "It&#39;s a",
+     "size": 150
+    },
+    {
+     "t": "[[trust]]",
+     "size": 200
+    },
+    {
+     "t": "problem.",
+     "size": 150
+    },
+    {
+     "t": "AND TRUST IS BUILT ON PURPOSE",
+     "cls": "kick"
+    }
+   ]
+  },
+  {
+   "start": 9.0,
+   "end": 12.0,
+   "lines": [
+    {
+     "logo": true
+    },
+    {
+     "t": "Content that turns followers into clients.",
+     "cls": "sub"
+    },
+    {
+     "pill": "FOLLOW FOR MORE"
+    }
+   ],
+   "center": true
+  }
+ ]
+}

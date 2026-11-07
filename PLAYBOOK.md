@@ -92,6 +92,10 @@ Read `BRAND.md` and `STRATEGY.md` before doing anything.
 - Metricool's API can create a post even when the call looks rejected. After every batch, run getScheduledPosts and fix duplicates
   (there is no delete tool: move a duplicate to an empty future slot with updateScheduledPost and new media).
 
+- Metricool "You have reached your Metricool account limit" (Oct 2026): exactly 20 posts published in October before every later post failed.
+  At the start of each run, list the last 2 weeks with getScheduledPosts and count `ERROR` statuses before making anything.
+- Mixkit pages may be blocked from the cloud session's web fetch; if so, don't fetch them another way — reuse the licensed clips in `stock/` with new jokes.
+
 ## Don'ts
 - Don't delete or edit posts that are already published. Don't touch other Metricool brands.
 - No prices, invented stats, fake testimonials or client names; no copyrighted music or characters.

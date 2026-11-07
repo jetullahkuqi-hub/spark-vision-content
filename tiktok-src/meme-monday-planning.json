@@ -1,0 +1,14 @@
+{
+ "type": "meme",
+ "clip": "stock/mixkit-4607.mp4",
+ "start": 13.0,
+ "length": 7.0,
+ "cx": 0.5,
+ "cy": 0.5,
+ "music_seed": 230,
+ "caption": "The team on Monday after the client says [[\"new direction\"]]",
+ "end": {
+  "line": "Strategy keeps us [[steady.]]",
+  "cta": "FOLLOW FOR MORE"
+ }
+}

@@ -1,0 +1,45 @@
+{
+ "type": "chat",
+ "duration": 13.1,
+ "music_seed": 217,
+ "caption": "The client opened the website on their [[phone]]",
+ "contact": "Client",
+ "messages": [
+  {
+   "from": "them",
+   "t": "The website looks wrong",
+   "at": 0.2,
+   "typing": false
+  },
+  {
+   "from": "us",
+   "t": "Which part?",
+   "at": 2.0
+  },
+  {
+   "from": "them",
+   "t": "On my phone",
+   "at": 3.5
+  },
+  {
+   "from": "us",
+   "t": "Which phone?",
+   "at": 5.0
+  },
+  {
+   "from": "them",
+   "t": "My old one",
+   "at": 6.5
+  },
+  {
+   "from": "them",
+   "t": "the screen is cracked",
+   "at": 8.0
+  }
+ ],
+ "end": {
+  "at": 10.1,
+  "line": "We test on every [[screen.]] Almost.",
+  "cta": "FOLLOW FOR MORE"
+ }
+}

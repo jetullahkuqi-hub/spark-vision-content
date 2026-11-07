@@ -1,0 +1,88 @@
+{
+ "tag": "STRATEGY",
+ "duration": 13.0,
+ "music_seed": 72,
+ "scenes": [
+  {
+   "start": 0,
+   "end": 2.8,
+   "lines": [
+    {
+     "t": "MARKETING IS LIKE CHESS",
+     "cls": "kick"
+    },
+    {
+     "t": "Think",
+     "size": 190
+    },
+    {
+     "t": "three moves",
+     "size": 150
+    },
+    {
+     "t": "[[ahead.]]",
+     "size": 190
+    }
+   ]
+  },
+  {
+   "start": 2.8,
+   "end": 5.2,
+   "lines": [
+    {
+     "t": "Move 1:",
+     "size": 150
+    },
+    {
+     "t": "[[get seen.]]",
+     "size": 170
+    }
+   ]
+  },
+  {
+   "start": 5.2,
+   "end": 7.6,
+   "lines": [
+    {
+     "t": "Move 2:",
+     "size": 150
+    },
+    {
+     "t": "[[get trusted.]]",
+     "size": 150
+    }
+   ]
+  },
+  {
+   "start": 7.6,
+   "end": 10.0,
+   "lines": [
+    {
+     "t": "Move 3:",
+     "size": 150
+    },
+    {
+     "t": "[[get chosen.]]",
+     "size": 150
+    }
+   ]
+  },
+  {
+   "start": 10.0,
+   "end": 13.0,
+   "lines": [
+    {
+     "logo": true
+    },
+    {
+     "t": "Every move has a purpose.",
+     "cls": "sub"
+    },
+    {
+     "pill": "SEND US A DM"
+    }
+   ],
+   "center": true
+  }
+ ]
+}

@@ -1,0 +1,85 @@
+{
+ "type": "text",
+ "tag": "WEBSITES",
+ "duration": 13.4,
+ "music_seed": 241,
+ "scenes": [
+  {
+   "start": 0.0,
+   "end": 2.6,
+   "lines": [
+    {
+     "t": "YOUR WEBSITE IN 2026",
+     "cls": "kick"
+    },
+    {
+     "t": "Fast?",
+     "size": 150
+    },
+    {
+     "t": "[[Must.]]",
+     "size": 150
+    }
+   ]
+  },
+  {
+   "start": 2.6,
+   "end": 5.2,
+   "lines": [
+    {
+     "t": "Mobile?",
+     "size": 150
+    },
+    {
+     "t": "[[Must.]]",
+     "size": 150
+    }
+   ]
+  },
+  {
+   "start": 5.2,
+   "end": 7.8,
+   "lines": [
+    {
+     "t": "Clear CTA?",
+     "size": 150
+    },
+    {
+     "t": "[[Must.]]",
+     "size": 150
+    }
+   ]
+  },
+  {
+   "start": 7.8,
+   "end": 10.4,
+   "lines": [
+    {
+     "t": "Music on load?",
+     "size": 120
+    },
+    {
+     "t": "[[No.]]",
+     "size": 150
+    }
+   ]
+  },
+  {
+   "start": 10.4,
+   "end": 13.4,
+   "center": true,
+   "lines": [
+    {
+     "logo": true
+    },
+    {
+     "t": "Need a website that works?",
+     "cls": "sub"
+    },
+    {
+     "pill": "SEND US A DM"
+    }
+   ]
+  }
+ ]
+}

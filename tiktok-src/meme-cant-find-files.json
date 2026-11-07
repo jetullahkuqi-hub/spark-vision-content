@@ -1,0 +1,14 @@
+{
+ "type": "meme",
+ "clip": "stock/mixkit-39854.mp4",
+ "start": 5.0,
+ "length": 6.5,
+ "cx": 0.5,
+ "cy": 0.15,
+ "music_seed": 232,
+ "caption": "Me looking for the client's [[logo in high quality]]",
+ "end": {
+  "line": "Send the [[vector]] file please.",
+  "cta": "FOLLOW FOR MORE"
+ }
+}

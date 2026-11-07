@@ -1,0 +1,78 @@
+{
+ "tag": "BRAND",
+ "duration": 12.0,
+ "music_seed": 74,
+ "scenes": [
+  {
+   "start": 0,
+   "end": 2.8,
+   "lines": [
+    {
+     "t": "Your feed",
+     "size": 170
+    },
+    {
+     "t": "is your",
+     "size": 170
+    },
+    {
+     "t": "[[shop window.]]",
+     "size": 140
+    }
+   ]
+  },
+  {
+   "start": 2.8,
+   "end": 5.6,
+   "lines": [
+    {
+     "t": "People",
+     "size": 150
+    },
+    {
+     "t": "decide in",
+     "size": 150
+    },
+    {
+     "t": "[[seconds]]",
+     "size": 190
+    }
+   ]
+  },
+  {
+   "start": 5.6,
+   "end": 9.0,
+   "lines": [
+    {
+     "t": "whether",
+     "size": 150
+    },
+    {
+     "t": "to walk in",
+     "size": 150
+    },
+    {
+     "t": "or walk [[past.]]",
+     "size": 140
+    }
+   ]
+  },
+  {
+   "start": 9.0,
+   "end": 12.0,
+   "lines": [
+    {
+     "logo": true
+    },
+    {
+     "t": "Make the first look count.",
+     "cls": "sub"
+    },
+    {
+     "pill": "SEND US A DM"
+    }
+   ],
+   "center": true
+  }
+ ]
+}

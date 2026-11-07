@@ -1,0 +1,83 @@
+{
+ "type": "text",
+ "tag": "FLAG?",
+ "duration": 10.8,
+ "music_seed": 242,
+ "scenes": [
+  {
+   "start": 0.0,
+   "end": 2.6,
+   "lines": [
+    {
+     "t": "RED OR GREEN FLAG?",
+     "cls": "kick"
+    },
+    {
+     "t": "Client sends",
+     "size": 120
+    },
+    {
+     "t": "the brief",
+     "size": 150
+    },
+    {
+     "t": "[[on time]]",
+     "size": 150
+    }
+   ]
+  },
+  {
+   "start": 2.6,
+   "end": 5.2,
+   "lines": [
+    {
+     "t": "RED OR GREEN FLAG?",
+     "cls": "kick"
+    },
+    {
+     "t": "\"Just do",
+     "size": 150
+    },
+    {
+     "t": "[[your magic]]\"",
+     "size": 150
+    }
+   ]
+  },
+  {
+   "start": 5.2,
+   "end": 7.8,
+   "lines": [
+    {
+     "t": "RED OR GREEN FLAG?",
+     "cls": "kick"
+    },
+    {
+     "t": "Client pays",
+     "size": 150
+    },
+    {
+     "t": "[[early]]",
+     "size": 150
+    }
+   ]
+  },
+  {
+   "start": 7.8,
+   "end": 10.8,
+   "center": true,
+   "lines": [
+    {
+     "logo": true
+    },
+    {
+     "t": "Comment red or green.",
+     "cls": "sub"
+    },
+    {
+     "pill": "COMMENT BELOW"
+    }
+   ]
+  }
+ ]
+}

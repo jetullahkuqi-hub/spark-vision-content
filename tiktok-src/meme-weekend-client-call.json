@@ -1,0 +1,14 @@
+{
+ "type": "meme",
+ "clip": "stock/mixkit-10450.mp4",
+ "start": 5.0,
+ "length": 6.0,
+ "cx": 0.4,
+ "cy": 0.5,
+ "music_seed": 227,
+ "caption": "When the client calls on [[Sunday morning]]",
+ "end": {
+  "line": "Boundaries are part of the [[plan.]]",
+  "cta": "FOLLOW FOR MORE"
+ }
+}

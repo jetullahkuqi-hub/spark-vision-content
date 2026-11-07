@@ -1,0 +1,45 @@
+{
+ "type": "chat",
+ "duration": 13.9,
+ "music_seed": 203,
+ "caption": "POV: you show the client a [[3D scroll website]]",
+ "contact": "Client",
+ "messages": [
+  {
+   "from": "us",
+   "t": "Here's the first preview \ud83d\udc40",
+   "at": 0.2,
+   "typing": false
+  },
+  {
+   "from": "them",
+   "t": "WAIT",
+   "at": 2.0
+  },
+  {
+   "from": "them",
+   "t": "it moves when I scroll??",
+   "at": 3.4
+  },
+  {
+   "from": "us",
+   "t": "Yep, custom 3D",
+   "at": 5.2
+  },
+  {
+   "from": "them",
+   "t": "I've been scrolling for 10 minutes",
+   "at": 6.8
+  },
+  {
+   "from": "them",
+   "t": "my whole family is watching",
+   "at": 8.7
+  }
+ ],
+ "end": {
+  "at": 10.9,
+  "line": "Make them [[stop scrolling.]]",
+  "cta": "FOLLOW FOR MORE"
+ }
+}

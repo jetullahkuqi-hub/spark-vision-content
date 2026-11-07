@@ -1,0 +1,45 @@
+{
+ "type": "chat",
+ "duration": 13.8,
+ "music_seed": 206,
+ "caption": "The client discovered [[\"best time to post\"]]",
+ "contact": "Client",
+ "messages": [
+  {
+   "from": "them",
+   "t": "I read we should post at 3:07 AM",
+   "at": 0.2,
+   "typing": false
+  },
+  {
+   "from": "us",
+   "t": "Where did you read that?",
+   "at": 2.1
+  },
+  {
+   "from": "them",
+   "t": "A video",
+   "at": 3.9
+  },
+  {
+   "from": "us",
+   "t": "Who's your audience?",
+   "at": 5.4
+  },
+  {
+   "from": "them",
+   "t": "Local bakery customers",
+   "at": 7.1
+  },
+  {
+   "from": "us",
+   "t": "They're asleep at 3 AM",
+   "at": 8.8
+  }
+ ],
+ "end": {
+  "at": 10.8,
+  "line": "Post when [[your]] people are online.",
+  "cta": "FOLLOW FOR MORE"
+ }
+}

@@ -1,0 +1,45 @@
+{
+ "type": "chat",
+ "duration": 13.8,
+ "music_seed": 209,
+ "caption": "The client checked the [[likes]] again",
+ "contact": "Client",
+ "messages": [
+  {
+   "from": "them",
+   "t": "Why only 40 likes?",
+   "at": 0.2,
+   "typing": false
+  },
+  {
+   "from": "us",
+   "t": "But you got 6 DMs and 2 bookings",
+   "at": 1.9
+  },
+  {
+   "from": "them",
+   "t": "Yes",
+   "at": 3.8
+  },
+  {
+   "from": "them",
+   "t": "but my neighbour gets 300 likes",
+   "at": 5.2
+  },
+  {
+   "from": "us",
+   "t": "What does he sell?",
+   "at": 7.1
+  },
+  {
+   "from": "them",
+   "t": "Nothing. He posts his dog",
+   "at": 8.7
+  }
+ ],
+ "end": {
+  "at": 10.8,
+  "line": "Likes don't pay [[bills.]]",
+  "cta": "FOLLOW FOR MORE"
+ }
+}

@@ -1,0 +1,14 @@
+{
+ "type": "meme",
+ "clip": "stock/mixkit-43831.mp4",
+ "start": 4.0,
+ "length": 6.0,
+ "cx": 0.5,
+ "cy": 0.5,
+ "music_seed": 231,
+ "caption": "When the ads finally bring [[real DMs]]",
+ "end": {
+  "line": "Ads with a [[strategy.]]",
+  "cta": "FOLLOW FOR MORE"
+ }
+}

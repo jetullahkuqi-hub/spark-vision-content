@@ -1,0 +1,45 @@
+{
+ "type": "chat",
+ "duration": 13.9,
+ "music_seed": 207,
+ "caption": "When the client sends [[\"inspiration\"]]",
+ "contact": "Client",
+ "messages": [
+  {
+   "from": "them",
+   "t": "Can you make our page like this one?",
+   "at": 0.2,
+   "typing": false
+  },
+  {
+   "from": "us",
+   "t": "Sure, what do you like about it?",
+   "at": 2.2
+  },
+  {
+   "from": "them",
+   "t": "Everything",
+   "at": 4.2
+  },
+  {
+   "from": "us",
+   "t": "Like the style?",
+   "at": 5.7
+  },
+  {
+   "from": "them",
+   "t": "No like, the same posts",
+   "at": 7.3
+  },
+  {
+   "from": "us",
+   "t": "Same posts??",
+   "at": 9.0
+  }
+ ],
+ "end": {
+  "at": 10.9,
+  "line": "Inspired is fine. [[Copied]] isn't.",
+  "cta": "FOLLOW FOR MORE"
+ }
+}

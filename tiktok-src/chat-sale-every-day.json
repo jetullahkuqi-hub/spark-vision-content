@@ -1,0 +1,40 @@
+{
+ "type": "chat",
+ "duration": 12.4,
+ "music_seed": 212,
+ "caption": "When every day is a [[\"special offer\"]]",
+ "contact": "Client",
+ "messages": [
+  {
+   "from": "them",
+   "t": "Let's post a sale again today",
+   "at": 0.2,
+   "typing": false
+  },
+  {
+   "from": "us",
+   "t": "That's the 9th sale this month",
+   "at": 2.1
+  },
+  {
+   "from": "them",
+   "t": "People love sales",
+   "at": 4.0
+  },
+  {
+   "from": "us",
+   "t": "What's the regular price?",
+   "at": 5.6
+  },
+  {
+   "from": "them",
+   "t": "Nobody has seen it",
+   "at": 7.4
+  }
+ ],
+ "end": {
+  "at": 9.4,
+  "line": "Value first. [[Offers]] second.",
+  "cta": "FOLLOW FOR MORE"
+ }
+}

@@ -1,0 +1,40 @@
+{
+ "type": "chat",
+ "duration": 12.8,
+ "music_seed": 214,
+ "caption": "POV: explaining your job at a [[family dinner]]",
+ "contact": "Uncle",
+ "messages": [
+  {
+   "from": "them",
+   "t": "So what do you do exactly?",
+   "at": 0.2,
+   "typing": false
+  },
+  {
+   "from": "us",
+   "t": "Social media strategy",
+   "at": 2.0
+  },
+  {
+   "from": "them",
+   "t": "So you're on your phone all day",
+   "at": 3.7
+  },
+  {
+   "from": "us",
+   "t": "Planning, design, ads, reports...",
+   "at": 5.7
+  },
+  {
+   "from": "them",
+   "t": "So you're on your phone all day",
+   "at": 7.6
+  }
+ ],
+ "end": {
+  "at": 9.8,
+  "line": "It IS a [[real job.]]",
+  "cta": "FOLLOW FOR MORE"
+ }
+}

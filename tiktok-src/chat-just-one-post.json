@@ -1,0 +1,40 @@
+{
+ "type": "chat",
+ "duration": 12.1,
+ "music_seed": 215,
+ "caption": "Small business owners will [[get this]]",
+ "contact": "Client",
+ "messages": [
+  {
+   "from": "them",
+   "t": "I posted once and nothing happened",
+   "at": 0.2,
+   "typing": false
+  },
+  {
+   "from": "us",
+   "t": "When was that?",
+   "at": 2.2
+  },
+  {
+   "from": "them",
+   "t": "In March",
+   "at": 3.8
+  },
+  {
+   "from": "us",
+   "t": "And since then?",
+   "at": 5.2
+  },
+  {
+   "from": "them",
+   "t": "I was waiting to see if it works",
+   "at": 6.8
+  }
+ ],
+ "end": {
+  "at": 9.1,
+  "line": "Consistency is the [[strategy.]]",
+  "cta": "FOLLOW FOR MORE"
+ }
+}

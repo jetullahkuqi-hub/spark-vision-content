@@ -1,0 +1,40 @@
+{
+ "type": "chat",
+ "duration": 11.2,
+ "music_seed": 219,
+ "caption": "When the strategy meeting becomes a [[dance trend]]",
+ "contact": "Client",
+ "messages": [
+  {
+   "from": "them",
+   "t": "We should do a dance trend",
+   "at": 0.2,
+   "typing": false
+  },
+  {
+   "from": "us",
+   "t": "For a law firm?",
+   "at": 2.0
+  },
+  {
+   "from": "them",
+   "t": "Yes",
+   "at": 3.6
+  },
+  {
+   "from": "us",
+   "t": "Who will dance?",
+   "at": 5.0
+  },
+  {
+   "from": "them",
+   "t": "You",
+   "at": 6.6
+  }
+ ],
+ "end": {
+  "at": 8.2,
+  "line": "Not every trend is [[your]] trend.",
+  "cta": "FOLLOW FOR MORE"
+ }
+}

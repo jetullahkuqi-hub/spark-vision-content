@@ -1,0 +1,14 @@
+{
+ "type": "meme",
+ "clip": "stock/mixkit-4760.mp4",
+ "start": 0.0,
+ "length": 6.9,
+ "cx": 0.45,
+ "cy": 0.5,
+ "music_seed": 228,
+ "caption": "When a [[real client]] follows us after one Reel",
+ "end": {
+  "line": "Right content. Right [[people.]]",
+  "cta": "FOLLOW FOR MORE"
+ }
+}

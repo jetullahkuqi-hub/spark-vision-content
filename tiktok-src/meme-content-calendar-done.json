@@ -1,0 +1,14 @@
+{
+ "type": "meme",
+ "clip": "stock/mixkit-49885.mp4",
+ "start": 6.0,
+ "length": 7.0,
+ "cx": 0.55,
+ "cy": 0.5,
+ "music_seed": 225,
+ "caption": "Me after planning [[30 days]] of content in advance",
+ "end": {
+  "line": "Every move has a [[purpose.]]",
+  "cta": "FOLLOW FOR MORE"
+ }
+}

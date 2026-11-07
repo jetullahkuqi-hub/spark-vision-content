@@ -5,6 +5,48 @@ Rule from the owner: **keep changing the strategy and follow what works.**
 
 ---
 
+## Run of Sat 7 Nov 2026 · plan for Sun 8 – Sat 14 Nov
+
+**Status check:** nothing was published on either network from 29 Oct to 7 Nov. All 33 posts scheduled for 29–31 Oct
+(10 Instagram + 23 TikTok) failed in Metricool with `"You have reached your Metricool account limit."` Exactly **20** posts went out through
+Metricool in October before the errors started (9 Instagram + 11 TikTok), which fits a plan cap of 20 publications per month.
+If the cap is monthly, it reset on 1 Nov — but if the plan was not upgraded, only the first ~20 posts of this week will publish
+(roughly Sun 8 and the morning of Mon 9). **Check `getScheduledPosts` for `ERROR` at the start of every run.**
+
+**Last 7 days (31 Oct – 7 Nov):** 0 posts on both networks, so there is no new per-post data. Instagram stayed at 379–380 followers
+(+1/−1). Account reach: 40–73 people a day, with one spike of **627 on 4 Nov** (no new post that day — older posts or the profile got
+picked up).
+
+**Updated all-time numbers for our posts (same items as the last run, a few more days of data):**
+| Network | Best | Worst |
+|---|---|---|
+| Instagram Reel | likes-dont-pay-bills: reach 672, 913 views, 8 likes, 2 shares (avg watch 1.2 s) | what-we-do-in-10-seconds: reach 43 |
+| Instagram post | every-move (chess): reach 454, 589 views, 5 likes, 1 share | be-chosen: reach 24 |
+| TikTok (ours) | final_FINAL_v7 meme: 28 views, 15 shares · "just make it go viral" chat: 22 views | "your logo isn't your brand" (IG cross-post): 2 views |
+| Owner's own | IG golden eagle product reel: reach 3329, 5390 views, 94 likes, 17 shares · TikTok 3D website: 39 views, 16 shares | – |
+
+**What we keep (≈70%):**
+- Instagram: bold one-line hot takes and the chess metaphor (the only two of our items that broke 400 reach). Service posts max 1 every 2 days.
+- TikTok: chat skits and reaction memes (best views + shares). Fewer kinetic-text lists (17 of 70 this week, down from ~25%).
+- Reuse the 23 TikToks and 6 IG posts that never published (they were never seen, so they are not repeats).
+
+**Experiments this week (≈30%):**
+1. **Instagram – first carousels:** two "Myth vs fact" carousels (5 slides, Mon 9 and Thu 12 at 10:00). Question: do carousels earn more saves than single posts?
+2. **Instagram – time slot:** the second post moves from 13:00 to **12:00** (Metricool best-time shows 12:00 above 13:00 every day). Order stays post → post → Reel; Reel at 18:00.
+3. **TikTok – website/build POV skits + question hooks:** 8 new chat skits about building websites (3D scroll site, launch day, domain names,
+   mobile version) because the owner's 3D-website video was the best TikTok. Plus "Which reply would YOU send?" / "launch or wait?" / "red or green flag?"
+   on-screen questions to test comments.
+4. **TikTok – new time slots** shifted toward Metricool peaks: 08:00 / 09:30 / 10:30 / 12:00 / 13:30 / 15:00 / 16:30 / 18:00 / 19:30 / 21:00.
+- Cross-posting: 3 funny TikToks as IG Reels at 18:00 (needs-more-pop Mon, make-it-go-viral Wed, just-post-something Fri) and 3 IG hot-take Reels on
+  TikTok (likes-dont-pay-bills Sun, stop-posting-start-planning Tue, ready-for-your-next-move Fri). Only hot takes go to TikTok now, no tip lists.
+- Still waiting on: the owner's raw project clips in `owner-clips/` for "behind the build" Reels (real work clearly wins).
+- No new Mixkit clips this run (the Mixkit site could not be opened from this session); memes reuse the 16 licensed clips with new jokes,
+  and clips used on 28 Oct are only reused from 11 Nov.
+
+**Plan files:** `weeks/2026-11-08.json` (14 posts + 7 Reels), `weeks/tiktok-2026-11-08.json` (70 videos: 26 chat, 24 meme, 17 text, 3 cross-posts).
+
+---
+
 ## Run of Sat 31 Oct 2026 · review of week 1 — ⚠️ PUBLISHING BLOCKED
 
 **Blocker:** since **Thu 29 Oct 07:00** every scheduled post (Instagram and TikTok) has failed in Metricool with

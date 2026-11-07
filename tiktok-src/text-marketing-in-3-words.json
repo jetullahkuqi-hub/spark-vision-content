@@ -1,0 +1,77 @@
+{
+ "type": "text",
+ "tag": "3 WORDS",
+ "duration": 13.4,
+ "music_seed": 243,
+ "scenes": [
+  {
+   "start": 0.0,
+   "end": 2.6,
+   "lines": [
+    {
+     "t": "MARKETING IN 3 WORDS",
+     "cls": "kick"
+    },
+    {
+     "t": "[[Focus.]]",
+     "size": 150
+    }
+   ]
+  },
+  {
+   "start": 2.6,
+   "end": 5.2,
+   "lines": [
+    {
+     "t": "[[Consistency.]]",
+     "size": 120
+    }
+   ]
+  },
+  {
+   "start": 5.2,
+   "end": 7.8,
+   "lines": [
+    {
+     "t": "[[Results.]]",
+     "size": 150
+    }
+   ]
+  },
+  {
+   "start": 7.8,
+   "end": 10.4,
+   "lines": [
+    {
+     "t": "Everything",
+     "size": 150
+    },
+    {
+     "t": "else is",
+     "size": 150
+    },
+    {
+     "t": "[[noise.]]",
+     "size": 150
+    }
+   ]
+  },
+  {
+   "start": 10.4,
+   "end": 13.4,
+   "center": true,
+   "lines": [
+    {
+     "logo": true
+    },
+    {
+     "t": "Strategy that delivers.",
+     "cls": "sub"
+    },
+    {
+     "pill": "FOLLOW FOR MORE"
+    }
+   ]
+  }
+ ]
+}

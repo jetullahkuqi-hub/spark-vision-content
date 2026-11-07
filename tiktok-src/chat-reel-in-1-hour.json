@@ -1,0 +1,40 @@
+{
+ "type": "chat",
+ "duration": 12.3,
+ "music_seed": 208,
+ "caption": "POV: [[\"quick reel\"]] for today",
+ "contact": "Client",
+ "messages": [
+  {
+   "from": "them",
+   "t": "Can you make a quick reel for today?",
+   "at": 0.2,
+   "typing": false
+  },
+  {
+   "from": "us",
+   "t": "Sure! What's it about?",
+   "at": 2.2
+  },
+  {
+   "from": "them",
+   "t": "Our new product",
+   "at": 4.0
+  },
+  {
+   "from": "us",
+   "t": "Send us the product",
+   "at": 5.6
+  },
+  {
+   "from": "them",
+   "t": "It arrives next month",
+   "at": 7.2
+  }
+ ],
+ "end": {
+  "at": 9.3,
+  "line": "Great content needs a [[plan.]]",
+  "cta": "FOLLOW FOR MORE"
+ }
+}

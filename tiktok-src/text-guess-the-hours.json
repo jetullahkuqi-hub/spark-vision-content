@@ -1,0 +1,103 @@
+{
+ "type": "text",
+ "tag": "GUESS",
+ "duration": 16.0,
+ "music_seed": 238,
+ "scenes": [
+  {
+   "start": 0.0,
+   "end": 2.6,
+   "lines": [
+    {
+     "t": "GUESS THE HOURS",
+     "cls": "kick"
+    },
+    {
+     "t": "One",
+     "size": 150
+    },
+    {
+     "t": "[[15-second]]",
+     "size": 150
+    },
+    {
+     "t": "video",
+     "size": 150
+    }
+   ]
+  },
+  {
+   "start": 2.6,
+   "end": 5.2,
+   "lines": [
+    {
+     "t": "Idea:",
+     "size": 150
+    },
+    {
+     "t": "[[1 hour]]",
+     "size": 150
+    }
+   ]
+  },
+  {
+   "start": 5.2,
+   "end": 7.8,
+   "lines": [
+    {
+     "t": "Filming:",
+     "size": 150
+    },
+    {
+     "t": "[[2 hours]]",
+     "size": 150
+    }
+   ]
+  },
+  {
+   "start": 7.8,
+   "end": 10.4,
+   "lines": [
+    {
+     "t": "Editing:",
+     "size": 150
+    },
+    {
+     "t": "[[4 hours]]",
+     "size": 150
+    }
+   ]
+  },
+  {
+   "start": 10.4,
+   "end": 13.0,
+   "lines": [
+    {
+     "t": "Caption:",
+     "size": 150
+    },
+    {
+     "t": "[[forever]]",
+     "size": 150
+    }
+   ]
+  },
+  {
+   "start": 13.0,
+   "end": 16.0,
+   "center": true,
+   "lines": [
+    {
+     "logo": true
+    },
+    {
+     "t": "Did you guess right?",
+     "cls": "sub"
+    },
+    {
+     "pill": "COMMENT BELOW"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,86 @@
+{
+ "tag": "HOT TAKE",
+ "duration": 12.0,
+ "music_seed": 73,
+ "scenes": [
+  {
+   "start": 0,
+   "end": 2.8,
+   "lines": [
+    {
+     "t": "Posting",
+     "size": 170
+    },
+    {
+     "t": "every day",
+     "size": 170
+    },
+    {
+     "t": "[[isn&#39;t]] a",
+     "size": 170
+    },
+    {
+     "t": "strategy.",
+     "size": 170
+    }
+   ]
+  },
+  {
+   "start": 2.8,
+   "end": 5.6,
+   "lines": [
+    {
+     "t": "Being",
+     "size": 150
+    },
+    {
+     "t": "[[busy]]",
+     "size": 200
+    },
+    {
+     "t": "isn&#39;t growth.",
+     "size": 130
+    }
+   ]
+  },
+  {
+   "start": 5.6,
+   "end": 9.0,
+   "lines": [
+    {
+     "t": "Know",
+     "size": 150
+    },
+    {
+     "t": "[[why]] you post",
+     "size": 140
+    },
+    {
+     "t": "before you",
+     "size": 150
+    },
+    {
+     "t": "post.",
+     "size": 150
+    }
+   ]
+  },
+  {
+   "start": 9.0,
+   "end": 12.0,
+   "lines": [
+    {
+     "logo": true
+    },
+    {
+     "t": "Strategy that delivers.",
+     "cls": "sub"
+    },
+    {
+     "pill": "FOLLOW FOR MORE"
+    }
+   ],
+   "center": true
+  }
+ ]
+}

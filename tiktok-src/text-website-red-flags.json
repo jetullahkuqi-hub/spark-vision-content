@@ -1,0 +1,89 @@
+{
+ "type": "text",
+ "tag": "WEBSITE RED FLAGS",
+ "duration": 13.4,
+ "music_seed": 234,
+ "scenes": [
+  {
+   "start": 0.0,
+   "end": 2.6,
+   "lines": [
+    {
+     "t": "WEBSITE RED FLAGS",
+     "cls": "kick"
+    },
+    {
+     "t": "01. Loads in",
+     "size": 120
+    },
+    {
+     "t": "[[12 seconds]]",
+     "size": 150
+    }
+   ]
+  },
+  {
+   "start": 2.6,
+   "end": 5.2,
+   "lines": [
+    {
+     "t": "02. No phone",
+     "size": 120
+    },
+    {
+     "t": "number",
+     "size": 150
+    },
+    {
+     "t": "[[anywhere]]",
+     "size": 150
+    }
+   ]
+  },
+  {
+   "start": 5.2,
+   "end": 7.8,
+   "lines": [
+    {
+     "t": "03. Last post:",
+     "size": 120
+    },
+    {
+     "t": "[[2019]]",
+     "size": 150
+    }
+   ]
+  },
+  {
+   "start": 7.8,
+   "end": 10.4,
+   "lines": [
+    {
+     "t": "04. Music",
+     "size": 150
+    },
+    {
+     "t": "[[autoplays]]",
+     "size": 150
+    }
+   ]
+  },
+  {
+   "start": 10.4,
+   "end": 13.4,
+   "center": true,
+   "lines": [
+    {
+     "logo": true
+    },
+    {
+     "t": "How many does yours have?",
+     "cls": "sub"
+    },
+    {
+     "pill": "COMMENT BELOW"
+    }
+   ]
+  }
+ ]
+}

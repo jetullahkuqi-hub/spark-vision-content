@@ -1,0 +1,40 @@
+{
+ "type": "chat",
+ "duration": 12.0,
+ "music_seed": 216,
+ "caption": "POV: choosing a [[domain name]] with the client",
+ "contact": "Client",
+ "messages": [
+  {
+   "from": "them",
+   "t": "We want a .com",
+   "at": 0.2,
+   "typing": false
+  },
+  {
+   "from": "us",
+   "t": "Great, what name?",
+   "at": 1.8
+  },
+  {
+   "from": "them",
+   "t": "best-shop-in-town-official-2",
+   "at": 3.4
+  },
+  {
+   "from": "us",
+   "t": "That's long",
+   "at": 5.3
+  },
+  {
+   "from": "them",
+   "t": "best-shop-official was taken",
+   "at": 6.8
+  }
+ ],
+ "end": {
+  "at": 9.0,
+  "line": "Short. Clear. [[Memorable.]]",
+  "cta": "FOLLOW FOR MORE"
+ }
+}

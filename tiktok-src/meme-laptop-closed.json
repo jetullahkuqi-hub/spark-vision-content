@@ -1,0 +1,14 @@
+{
+ "type": "meme",
+ "clip": "stock/mixkit-4954.mp4",
+ "start": 0.5,
+ "length": 6.0,
+ "cx": 0.5,
+ "cy": 0.05,
+ "music_seed": 233,
+ "caption": "Me closing the laptop after the [[last revision]] is approved",
+ "end": {
+  "line": "Done is better than [[perfect.]]",
+  "cta": "FOLLOW FOR MORE"
+ }
+}

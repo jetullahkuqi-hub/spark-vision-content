@@ -1,0 +1,15 @@
+{
+ "type": "meme",
+ "clip": "stock/mixkit-43832.mp4",
+ "start": 0.0,
+ "length": 3.2,
+ "cx": 0.45,
+ "cy": 0.5,
+ "music_seed": 222,
+ "caption": "When the client says [[\"perfect, don't change anything\"]]",
+ "end": {
+  "line": "Rare. But it [[happens.]]",
+  "cta": "FOLLOW FOR MORE"
+ },
+ "cap_size": 76
+}

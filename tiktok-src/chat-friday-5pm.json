@@ -1,0 +1,45 @@
+{
+ "type": "chat",
+ "duration": 13.0,
+ "music_seed": 213,
+ "caption": "Every agency on Friday at [[4:59 PM]]",
+ "contact": "Client",
+ "messages": [
+  {
+   "from": "them",
+   "t": "Small thing before the weekend",
+   "at": 0.2,
+   "typing": false
+  },
+  {
+   "from": "us",
+   "t": "Sure, what is it?",
+   "at": 2.1
+  },
+  {
+   "from": "them",
+   "t": "New campaign",
+   "at": 3.7
+  },
+  {
+   "from": "them",
+   "t": "3 videos",
+   "at": 5.3
+  },
+  {
+   "from": "them",
+   "t": "for Monday 8 AM",
+   "at": 6.7
+  },
+  {
+   "from": "us",
+   "t": "\ud83d\ude42",
+   "at": 8.3
+  }
+ ],
+ "end": {
+  "at": 10.0,
+  "line": "We plan [[ahead]] so you don't have to.",
+  "cta": "FOLLOW FOR MORE"
+ }
+}
