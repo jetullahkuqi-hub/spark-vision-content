@@ -5,6 +5,57 @@ Rule from the owner: **keep changing the strategy and follow what works.**
 
 ---
 
+## Run of Sat 14 Nov 2026 · ⚠️ PUBLISHING BLOCKED AGAIN (Metricool 20-posts/month cap)
+
+**Blocker (confirmed):** in November exactly **20** posts published (Sun 8: 3 IG + 10 TikTok; Mon 9 until 13:30: 2 IG + 5 TikTok).
+From **Mon 9 Nov 15:00** every post failed with `"You have reached your Metricool account limit."` (checked again today: 08:00–10:30
+failed, the rest of today is still "Pending" and will fail the same way). Two months in a row the cut-off came at exactly 20 posts, so the
+plan's limit is **20 publications per calendar month**, all networks together. Our cadence (3 IG + 10 TikTok a day = 91/week) needs ~390/month.
+**This run made no new content and scheduled nothing**, because every slot until 30 Nov would fail. Nothing is scheduled after 14 Nov.
+The owner must either upgrade the Metricool plan (unlimited/higher publishing) or set a lower cadence that fits the cap.
+
+**Instagram, 8–9 Nov (4 feed posts + 1 Reel published)**
+| Item | Type | Reach | Views | Likes | Saves/Shares |
+|---|---|---|---|---|---|
+| followers-arent-clients ("Lots of followers, zero clients?") | Reel | **568** | 680 | 5 | 0 / 1 |
+| myths-part-1 (first carousel) | Carousel | 24 | 83 | 2 | 0 / 0 |
+| not-everyone | Post | 22 | 55 | 2 | 0 / 0 |
+| think-three-moves (chess) | Post | 22 | 54 | 0 | 0 / 0 |
+| stop-the-scroll | Post | 21 | 40 | 0 | 0 / 0 |
+Reel: average watch 1.5 s, **skip rate 93 %** (people swipe in the first 3 s). Feed posts only reach existing followers (~20 people).
+Carousel: most views of the feed posts (83, people swiped) but no saves; one carousel is too small a sample.
+
+**TikTok, 8–9 Nov (15 videos published)**
+| Video | Format | Views | Likes |
+|---|---|---|---|
+| chat-the-brief (Sun 08:00) | chat | **1155** | 3 |
+| meme-draft-14 (Sun 09:30) | meme | 755 | 5 (+1 comment) |
+| i-will-post-every-day "day 1 vs day 47" (Sun 10:30) | text | 738 | 2 |
+| chat-website-by-monday (Sun 12:00) | chat | 546 | 3 |
+| chat-clean-but-sliders (Sun 15:00) | chat | 457 | 3 |
+| likes-dont-pay-bills (IG cross-post, Sun 13:30) | crosspost | 334 | 3 |
+| the other 9 (Sun 16:30 → Mon 13:30) | mixed | 2–23 each | 0–3 |
+First real TikTok traction: **3,985 views on Sunday's first 6 videos** (vs. 1–11 per video in October). Every format worked when it went out
+early; after ~6 posts in a day the views fell to 9–23, and Monday's videos got 2–16. Shares 0, comments 1.
+
+**What the data says (still a small sample):**
+1. **TikTok: posting volume is likely hurting reach.** The first 6 videos after a 10-day pause got 334–1155 views, the next 9 got 2–23.
+   This fits TikTok giving a new account a limited daily push. 3–4 strong videos a day will probably beat 10.
+2. **TikTok: chat skits are the most reliable winner** (1155, 546, 457). Memes and text also break out when early in the day.
+   The IG hot-take cross-post did the worst of the early batch (334).
+3. **Instagram: Reels are the only thing that reaches new people** (568 vs ~22 for feed posts), but a 93 % skip rate means the first second
+   doesn't hold. Hot-take Reels stay; they need a faster, more visual first frame.
+4. Feed posts and the carousel did not grow the account; they mostly serve the profile grid.
+
+**Plan for when publishing works again (to apply in the next run):**
+- If the cap stays at 20/month: ~5 per week → **2 IG Reels + 3 TikTok chat/meme videos a week**, best slot 08:00–12:00. Feed posts pause.
+- If the plan is upgraded: keep 3 IG a day (owner's rule) but recommend **TikTok 3–4 a day instead of 10** (experiment to confirm), in the 08:00–12:00 window.
+- **IG experiment:** Reels with a moving/visual first frame (stock clip or chat bubble) instead of text on navy, to cut the 93 % skip rate.
+- **TikTok experiment:** 4 posts a day for one week (08:00 / 09:30 / 11:00 / 12:30) and compare views per video with the 10-a-day weeks.
+- Keep: chat skits (≥50 % of TikTok), the 70 videos + 21 IG items already made but never published can be reused (never seen).
+
+---
+
 ## Run of Sat 7 Nov 2026 · plan for Sun 8 – Sat 14 Nov
 
 **Status check:** nothing was published on either network from 29 Oct to 7 Nov. All 33 posts scheduled for 29–31 Oct
